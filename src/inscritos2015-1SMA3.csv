@@ -2,7 +2,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;88;124;ABEL BENJAMIN;HERRERA QUINTERO;ESPECIALIZACION EN ENDODONCIA                                                                       ;   
 2015;1;TI;100;51;JULIO JOSE;QUIROZ BALMACEDA;MEDICINA                                                                                            ;PRP
 2015;1;CA;2034;147;LUZMAYRA;CORDERO ARROYO;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP
-2015;1;TP;71609;190;RINA MERCEDES;CASTILLA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP
+2015;1;CE;71609;190;RINA MERCEDES;CASTILLA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP
 2015;1;CE;329390;54;LAURA ROSELETE;PREUSS KIPP;ENFERMERIA                                                                                          ;PRP
 2015;1;CC;552459;109;WENDY JOHANNA;ACUÑA PEREZ;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP
 2015;1;CC;886609;254;JEISSON RAFAEL;MADERA MEDINA;ADMINISTRACION FINANCIERA - MAGANGUE                                                                ;PRP
@@ -278,7 +278,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;23145804;109;SULAY;DIAZ CAPELLA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP
 2015;1;CC;23181520;54;RAQUEL;PEREIRA VILORIA;ENFERMERIA                                                                                          ;PRP
 2015;1;CC;23181931;123;GLEMIS GLEUDITH;DIAZ GARCIA;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP
-2015;1;CE;23712518;51;ARIANA NAZARET;FERNANDEZ JULIO;MEDICINA                                                                                            ;PRP
+2015;1;CC;23712518;51;ARIANA NAZARET;FERNANDEZ JULIO;MEDICINA                                                                                            ;PRP
 2015;1;CC;25203090;194;BRINY LORENA;JALAL PETRO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP
 2015;1;CC;25785709;602;DIANA MARIA;SCHOONEWOLF ESPITIA;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP
 2015;1;CC;25785755;191;SANDRA MILENA;ZUÑIGA HERNANDEZ;MAESTRIA EN DERECHO                                                                                 ;PRP
@@ -296,8 +296,8 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;26201202;727;YURANIS PAULIN;GRISOLLES BARROZO;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
 2015;1;CC;26202912;600;MARIA NELA;RAILLO MARTINEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP
 2015;1;CC;26203028;602;ENA LUCÍA;HERNÁNDEZ PUENTES;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP
-2015;1;CE;26346284;39;LINA FERNANDA;ROJAS;COMUNICACION SOCIAL                                                                                 ;PRP
-2015;1;CE;26385164;21;EDWIN EDUARDO;ROJAS;INGENIERIA CIVIL                                                                                    ;PRP
+2015;1;CC;26346284;39;LINA FERNANDA;ROJAS;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;CC;26385164;21;EDWIN EDUARDO;ROJAS;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;CC;26801488;194;JOSEFINA TERESA;MELGAREJO CAMARGO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP
 2015;1;TI;27617279;22;RONALDO DEL CRISTO;JIMENEZ GOMEZ;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;CC;27620677;191;DEISY MABEL;RINCON RINCON;MAESTRIA EN DERECHO                                                                                 ;PRP
@@ -481,7 +481,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;40942469;191;EILEEN YARIBEL;IGUARAN BRITO;MAESTRIA EN DERECHO                                                                                 ;PRP
 2015;1;CC;40992188;202;ANGELICA MARIA;HERRERA SIMANCAS;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP
 2015;1;CC;40993907;662;VIELKA DEL CARMEN;MENDOZA OSPINO;BIOLOGIA                                                                                            ;PRP
-2015;1;PS;41825335;51;BEATRIZ ELENA;CANO WILCHES;MEDICINA                                                                                            ;PRP
+2015;1;CC;41825335;51;BEATRIZ ELENA;CANO WILCHES;MEDICINA                                                                                            ;PRP
 2015;1;CC;42270335;191;DIANA LUCIA;PERALTA NARVAEZ;MAESTRIA EN DERECHO                                                                                 ;PRP
 2015;1;CC;42272601;123;MARIA MERCEDES;NARVAEZ GOMEZ;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP
 2015;1;CC;42272601;124;MARIA MERCEDES;NARVAEZ GOMEZ;ESPECIALIZACION EN ENDODONCIA                                                                       ;   
@@ -615,7 +615,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;45558592;50;LINA LUZ;LAGUNA MORANTE;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;CC;45558654;109;LAING;YI MADERA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP
 2015;1;CC;45558662;54;WENDY MACIEL;LOZANO GUERRERO;ENFERMERIA                                                                                          ;PRP
-2015;1;CA;45559019;123;YENIS ASENETH;YENIS ASENETH;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP
+2015;1;CC;45559019;123;YENIS ASENETH;YENIS ASENETH;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP
 2015;1;CC;45559296;51;CRISTINA;MUNOZ PEREZ;MEDICINA                                                                                            ;PRP
 2015;1;CC;45559926;202;VICENTA ESTER;ARIZA GONZALEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP
 2015;1;CC;45560381;414;LAUDIT;NARVAEZ MARTINEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP
@@ -727,7 +727,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;57309610;24;GLENIA PATRICIA;GARCIA YANCY;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP
 2015;1;CC;57404734;191;ELENA DEL PILAR;MELENDEZ TAPIAS;MAESTRIA EN DERECHO                                                                                 ;PRP
 2015;1;CC;57426518;727;MAGALIS ELENA;BATISTA CARRILLO;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
-2015;1;PS;63312531;21;JESUS EMANUEL;REBOLLEDO BRICEÑO;INGENIERIA CIVIL                                                                                    ;PRP
+2015;1;CC;63312531;21;JESUS EMANUEL;REBOLLEDO BRICEÑO;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;CC;63319495;685;ISABEL CLARA;ACOSTA-COLEY;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP
 2015;1;CC;63528471;202;MARTA CECILIA;LOPEZ DE LA HOZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP
 2015;1;CC;63555848;727;AYLIN JOHANA;AVILA HERNANDEZ;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
@@ -1064,8 +1064,8 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;85446668;191;ARQUIMEDES;CONTRERAS CAMPO;MAESTRIA EN DERECHO                                                                                 ;PRP
 2015;1;CC;85485076;109;ROBERTO CARLOS;MIRANDA VARGAS;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP
 2015;1;CC;85486531;326;LUIS CARLOS;DE ORO GUTIERREZ;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
-2015;1;PS;85940279;190;JESSYMAR FRANCHESCA;DANEAU TOVAR;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP
-2015;1;PS;85940279;112;JESSYMAR FRANCHESCA;DANEAU TOVAR;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP
+2015;1;CC;85940279;190;JESSYMAR FRANCHESCA;DANEAU TOVAR;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP
+2015;1;CC;85940279;112;JESSYMAR FRANCHESCA;DANEAU TOVAR;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP
 2015;1;CC;92070833;224;ROBER MIGUEL;MERLANO MENDEZ;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP
 2015;1;CC;92099856;595;JOSE FERNANDO;ACOSTA DIAZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP
 2015;1;CC;92131653;51;DAVID ENRIQUIE;LEGUIA VARGAS;MEDICINA                                                                                            ;PRP
@@ -1087,7 +1087,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;92601613;112;ADOLFO SEGUNDO;LORA ROBLES;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP
 2015;1;CC;92601613;190;ADOLFO SEGUNDO;LORA ROBLES;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP
 2015;1;CC;92642920;191;GUIDO GUILLERMO;GUEVARA HERRERA;MAESTRIA EN DERECHO                                                                                 ;PRP
-2015;1;PS;97448853;22;JOSE ABRAHAM;REBOLLEDO BRICEÑO;INGENIERIA DE SISTEMAS                                                                              ;PRP
+2015;1;CC;97448853;22;JOSE ABRAHAM;REBOLLEDO BRICEÑO;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;CC;98687325;174;ELKIN MIGUEL;HERNANDEZ ARCILA;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   
 2015;1;CC;100319254;600;JUAN PABLO;RUIZ GARCIA;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP
 2015;1;CC;100555245;595;CINDY MILENA;HERRERA ACUÑA;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP
@@ -1302,7 +1302,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;1002188868;47;CAROLINA;MORELOS VILLADIEGO;LINGUISTICA Y LITERATURA                                                                            ;PRP
 2015;1;TI;1002188868;202;CAROLINA;MORELOS VILLADIEGO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP
 2015;1;CC;1002189070;51;DIANA MARCELA;PAUTT GUTIERREZ DE PIÑERES;MEDICINA                                                                                            ;PRP
-2015;1;NP;1002189117;326;CINDY PAOLA;GARCIA SALGADO;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
+2015;1;CC;1002189117;326;CINDY PAOLA;GARCIA SALGADO;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
 2015;1;TI;1002189762;51;LAURA MARCELA;GOMEZ CASTRO;MEDICINA                                                                                            ;PRP
 2015;1;TI;1002190157;51;GINA MARCELA;CERRO CASTILLO;MEDICINA                                                                                            ;PRP
 2015;1;CC;1002190320;24;NATALIA ANDREA;GARCÍA REYES;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP
@@ -1529,7 +1529,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;1002738622;202;ALDEMAR;CASTRO GUZMAN;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP
 2015;1;CC;1002999834;600;JUAN JOSE;DORIA DIAZ;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP
 2015;1;TI;1003000040;727;SERGIO ANDRES;BERROCAL GOMEZ;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
-2015;1;NP;1003003236;39;ANA CELENE;POSADA PLAZA;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;CC;1003003236;39;ANA CELENE;POSADA PLAZA;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;CC;1003027524;601;ADRIANA PAOLA;ARGUMEDO JIMENEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP
 2015;1;TI;1003027871;52;MARIA DELFINA;QUITIAN GOMEZ;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;1003034005;600;OSCAR DAVID;AYALA GUZMAN;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP
@@ -1690,7 +1690,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;1005677556;50;XILENA  MARIA;MORENO MENDEZ;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;CC;1005678578;259;CARLOS MARIO;BANQUETT BANQUET;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP
 2015;1;TI;1005682214;259;YENIFER;MONTES GARAVITO;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP
-2015;1;NP;1005684365;51;ANDREA CAROLINA;SUAREZ SEQUEDA;MEDICINA                                                                                            ;PRP
+2015;1;CC;1005684365;51;ANDREA CAROLINA;SUAREZ SEQUEDA;MEDICINA                                                                                            ;PRP
 2015;1;TI;1005708030;50;ANDRYS FERNANDO;GOMEZ RICARDO;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;TI;1005708103;52;YULI PAOLA;BURGOS RANGEL;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;1005709245;51;KARLA ISABEL;MONTES GUTIERREZ;MEDICINA                                                                                            ;PRP
@@ -2613,7 +2613,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;1047454172;44;CRISTIAN DE JESÚS;PORTO SOLANO;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
 2015;1;CC;1047454189;21;ANDREA ROCIO;SALAMANCA CEPEDA;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;CC;1047454285;21;CESAR EDUARDO;ALVAREZ BURGOS;INGENIERIA CIVIL                                                                                    ;PRP
-2015;1;CE;1047454298;39;MANUEL ALEJANDRO;ROJO CEBALLOS;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;CC;1047454298;39;MANUEL ALEJANDRO;ROJO CEBALLOS;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;CC;1047454314;414;KAREN SOFIA;DIAZ ALCAZAR;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP
 2015;1;CC;1047454336;205;BLANCA LUZ;LOPERA PASTRANA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP
 2015;1;CC;1047454743;45;LUIS GUILLERMO;HURTADO SAEZ;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP
@@ -3109,7 +3109,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;1047490537;51;VALENTINA;TORRES GONZÁLEZ;MEDICINA                                                                                            ;PRP
 2015;1;CC;1047490545;21;ALFONSO ENRIQUE;PUERTA IMITOLA;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;CC;1047490575;54;ANDREA MELISA;CHACÓN FEDULLO;ENFERMERIA                                                                                          ;PRP
-2015;1;NP;1047490694;49;GIOVANNI ANDRES;OTALORA CASTILLO;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
+2015;1;CC;1047490694;49;GIOVANNI ANDRES;OTALORA CASTILLO;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;CC;1047490713;51;YENNY JUDITH;LOPEZ LOPEZ;MEDICINA                                                                                            ;PRP
 2015;1;CC;1047490722;39;MARIA CAMILA;NARVAEZ RODELO;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;CC;1047490765;51;ESMERALDA ROSA;TORRES BOTELLO;MEDICINA                                                                                            ;PRP
@@ -3302,7 +3302,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;1050954829;205;KARELYS;VARGAS MARRUGO;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP
 2015;1;CC;1050955504;190;MIRIAN EUNIVES;SILGADO HERNANDEZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP
 2015;1;CC;1050955568;414;YESICA SARET;ROMERO MEJIA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP
-2015;1;CA;1050955912;39;BLANCA JARFFA;JIMENEZ MARTELO;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;CC;1050955912;39;BLANCA JARFFA;JIMENEZ MARTELO;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;CC;1050956445;174;JORGE ELIECER;MORALES SIMANCA;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   
 2015;1;CC;1050956462;53;MARLON JOSE;MEJIA GONZALEZ;QUIMICA FARMACEUTICA                                                                                ;PRP
 2015;1;CC;1050956494;125;BEATRIZ ELENA;PAJARO ARNEDO;ESPECIALIZACION EN ESTOMATOLOGIA Y CIRUGIA ORAL                                                     ;PRP
@@ -3683,7 +3683,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;1052092529;47;KETHERINE PAOLA;FERNANDEZ FERNANDEZ;LINGUISTICA Y LITERATURA                                                                            ;PRP
 2015;1;CC;1052092714;463;MIGUEL ANGEL;CARDENAS TAPIAS;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP
 2015;1;CC;1052092747;463;ADRIANA;BLANCO MORALES;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP
-2015;1;TP;1052495208;595;GUISELA;MARMOL GALVAN;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP
+2015;1;CC;1052495208;595;GUISELA;MARMOL GALVAN;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP
 2015;1;CC;1052544300;414;JENIFER PAOLA;CABALLERO SERRANO;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP
 2015;1;CC;1052571717;715;FAURID FERNANDO;JIMENEZ HERNANDEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP
 2015;1;CC;1052573848;54;KATERINE;VASQUEZ TOLOZA;ENFERMERIA                                                                                          ;PRP
@@ -5778,12 +5778,12 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;90101071430;41;GERALDINE VALERIA;GARCIA NAVARRO;DERECHO                                                                                             ;PRP
 2015;1;TI;91121528535;51;DAIVI DE JESUS;CAMBAR POLANCO;MEDICINA                                                                                            ;PRP
 2015;1;TI;91122024745;51;DEVIS SAMIR;ZAMBRANO BUELVAS;MEDICINA                                                                                            ;PRP
-2015;1;CC;94031321292;250;MARIA ALEJANDRA;MARIA ALEJANDRA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP
+2015;1;TI;94031321292;250;MARIA ALEJANDRA;MARIA ALEJANDRA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP
 2015;1;TI;94061316645;602;ANDRES;GOMEZ MONTIEL;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP
-2015;1;CC;94091517242;250;BRANDON LUIS;BRANDON LUIS;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP
-2015;1;CC;94101927800;250;MIGUEL  EDUARDO;OCHOA SANCHEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP
+2015;1;TI;94091517242;250;BRANDON LUIS;BRANDON LUIS;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP
+2015;1;TI;94101927800;250;MIGUEL  EDUARDO;OCHOA SANCHEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP
 2015;1;TI;95042728293;21;LEYDIS CAROLINA;PUA CASTILLA;INGENIERIA CIVIL                                                                                    ;PRP
-2015;1;CC;95101825354;54;SAYDA MARCELA;ARIAS BELTRAN;ENFERMERIA                                                                                          ;PRP
+2015;1;TI;95101825354;54;SAYDA MARCELA;ARIAS BELTRAN;ENFERMERIA                                                                                          ;PRP
 2015;1;TI;95102926987;48;ROBERTO;VELASQUEZ DEAN;HISTORIA                                                                                            ;PRP
 2015;1;TI;95102926987;415;ROBERTO;VELASQUEZ DEAN;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP
 2015;1;TI;96010329334;48;VIANNYS PAOLA;CAICEDO LORA;HISTORIA                                                                                            ;PRP
@@ -5808,7 +5808,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;96062615033;49;KEYLIS PAOLA;DIAZ MONSALVE;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;96062716301;52;SERGIO ANDRES;RIVERA DE AVILA;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;96063024560;51;DUBAN;RAYA BONFANTE;MEDICINA                                                                                            ;PRP
-2015;1;CC;96070315537;41;LEISY YOERLIS;PAYERES RUDAS;DERECHO                                                                                             ;PRP
+2015;1;TI;96070315537;41;LEISY YOERLIS;PAYERES RUDAS;DERECHO                                                                                             ;PRP
 2015;1;TI;96070528247;43;ANUAR;VIERA TORRES;ECONOMIA                                                                                            ;PRP
 2015;1;TI;96070727882;51;ANDRES CAMILO;SANTIAGO ARENAS;MEDICINA                                                                                            ;PRP
 2015;1;TI;96070810570;51;MELANIE;CABARCAS BELTRAN;MEDICINA                                                                                            ;PRP
@@ -5817,7 +5817,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;96071026148;51;OSWAL JOSE;ARRIETA RICO;MEDICINA                                                                                            ;PRP
 2015;1;TI;96071228069;44;JHON SEBASTIAN;GONZALEZ MONTOYA;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
 2015;1;TI;96071528674;51;KATIA ROCIO;ESPINOSA PAJARO;MEDICINA                                                                                            ;PRP
-2015;1;CC;96071622146;460;JEREMI;ALVAREZ PALENCIA;INGENIERIA DE SISTEMAS - MAGANGUE                                                                   ;PRP
+2015;1;TI;96071622146;460;JEREMI;ALVAREZ PALENCIA;INGENIERIA DE SISTEMAS - MAGANGUE                                                                   ;PRP
 2015;1;TI;96071706734;49;ASTRID CAROLINA;ASTRID CAROLINA;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;96071806682;662;WILLIAM DAVID;MONTENEGRO REALPE;BIOLOGIA                                                                                            ;PRP
 2015;1;TI;96071909554;41;FLORANGELA;URIBE PEREZ;DERECHO                                                                                             ;PRP
@@ -6244,7 +6244,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;96120316769;41;IVAN DAVID;YEPES DE ORO;DERECHO                                                                                             ;PRP
 2015;1;TI;96120321150;52;SIRLY;SIBAJA SIBAJA;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;96120325692;53;HOLMAN;TORRES JIMENEZ;QUIMICA FARMACEUTICA                                                                                ;PRP
-2015;1;CC;96120328570;250;YOSEL MARGARITA;NARVAEZ ANGULO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP
+2015;1;TI;96120328570;250;YOSEL MARGARITA;NARVAEZ ANGULO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP
 2015;1;TI;96120410978;51;ANDREA PAOLA;VILLADIEGO GÓMEZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;96120415279;23;SARAH LUCÍA;LECOMPTE SEJNAUI;INGENIERIA QUIMICA                                                                                  ;PRP
 2015;1;TI;96120428001;51;CRISTIAN CAMILO;ZARATE GONZALEZ;MEDICINA                                                                                            ;PRP
@@ -6274,7 +6274,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;96120924530;54;LAURA VANESSA;ACOSTA GUERRERO;ENFERMERIA                                                                                          ;PRP
 2015;1;TI;96120926303;41;LUIS FERNANDO;PARDO ACOSTA;DERECHO                                                                                             ;PRP
 2015;1;TI;96121008820;45;JESUS DAVID;CASTRO GARCIA;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP
-2015;1;NP;96121011414;51;SHARON NICOLLE;DAZA GONZALEZ;MEDICINA                                                                                            ;PRP
+2015;1;TI;96121011414;51;SHARON NICOLLE;DAZA GONZALEZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;96121014847;23;JORGE CAMILO;LOPEZ MERLANO;INGENIERIA QUIMICA                                                                                  ;PRP
 2015;1;TI;96121018699;21;YULEIMA;SALCEDO HERRERA;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;96121021940;22;JUAN CARLOS;LLAMAS FLOREZ;INGENIERIA DE SISTEMAS                                                                              ;PRP
@@ -6355,7 +6355,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;96122027268;21;JOSE JUAN;TUIRAN PERTUZ;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;96122027462;21;ALBERTO ANDRES;GOMEZ VERGARA;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;96122028701;205;BRIAN JAVIER;ANDRADE BAENA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP
-2015;1;TP;96122028841;41;GLIDER RAFAEL;DURANGO MONTES;DERECHO                                                                                             ;PRP
+2015;1;TI;96122028841;41;GLIDER RAFAEL;DURANGO MONTES;DERECHO                                                                                             ;PRP
 2015;1;TI;96122029481;51;WILMAR ENRIQUE;CUADRO CUADRO;MEDICINA                                                                                            ;PRP
 2015;1;TI;96122120888;22;DUWAN;SIBAJA LOBO;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;TI;96122126207;51;ABRAHAM ELIAS;OICATA GOMEZ;MEDICINA                                                                                            ;PRP
@@ -6682,7 +6682,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97021418750;50;MARIA MATILDE;JIMENEZ PEREZ;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;TI;97021420054;42;ARIADNA INDIRA;MEDRANO CERVANTES;TRABAJO SOCIAL                                                                                      ;PRP
 2015;1;TI;97021423746;594;ALAN MAURICIO;PACHECO BERVEL;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP
-2015;1;NP;97021425170;51;BRIGETTE;GARCIA GARCIA;MEDICINA                                                                                            ;PRP
+2015;1;TI;97021425170;51;BRIGETTE;GARCIA GARCIA;MEDICINA                                                                                            ;PRP
 2015;1;TI;97021426184;51;SERGIO ANDRES;VELEZ ALVAREZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;97021426473;50;ANDREA CAROLINA;CONTRERAS DEULOFEUTT;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;TI;97021426478;51;ANDREA CAROLINA;CONTRERAS DEULOFEUTT;MEDICINA                                                                                            ;PRP
@@ -6873,7 +6873,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97032610572;51;ASHLEY PATRICIA;RUA DIAZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;97032615515;52;MARIA ANGELICA;CANO ZUÑIGA;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;97032621329;51;MIGUEL ANGEL;BENITEZ ECHENIQUE;MEDICINA                                                                                            ;PRP
-2015;1;CC;97032626207;463;DAVID ENRIQUE;DAVID ENRIQUE;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP
+2015;1;TI;97032626207;463;DAVID ENRIQUE;DAVID ENRIQUE;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP
 2015;1;TI;97032626320;24;JHON JAIRO;QUINTERO COHEN;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP
 2015;1;TI;97032704810;51;XIMENA;PORTILLO PUENTES;MEDICINA                                                                                            ;PRP
 2015;1;TI;97032709340;51;ROBINSON;GOMEZ ZAPATA;MEDICINA                                                                                            ;PRP
@@ -7076,7 +7076,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97050206592;19;ANDRY STELLA;MIRANDA PASTRANA;QUIMICA                                                                                             ;PRP
 2015;1;TI;97050210565;51;MARIO ANDRES;BELTRAN LUGO;MEDICINA                                                                                            ;PRP
 2015;1;TI;97050222156;39;LIZ NEYS;FANG MOLINA;COMUNICACION SOCIAL                                                                                 ;PRP
-2015;1;NP;97050222806;47;JUAN ASAF;FRANZUAL MOLINA;LINGUISTICA Y LITERATURA                                                                            ;PRP
+2015;1;TI;97050222806;47;JUAN ASAF;FRANZUAL MOLINA;LINGUISTICA Y LITERATURA                                                                            ;PRP
 2015;1;TI;97050223063;44;JAIRO JOSE;LAMBIS DEVOZ;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
 2015;1;TI;97050225589;22;ANDRES DAVID;ARROYO GRANADOS;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;TI;97050305779;51;MARIA JOSE;OSPINA ACEVEDO;MEDICINA                                                                                            ;PRP
@@ -7428,7 +7428,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97062425613;39;ERIKA MARGARITA;ACEVEDO POSSO;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;97062508004;41;GUSTAVO HUMBERTO;HOYOS MELGUIZO;DERECHO                                                                                             ;PRP
 2015;1;TI;97062514080;22;BENJAMIN ANDRES;PABA GONZALEZ;INGENIERIA DE SISTEMAS                                                                              ;PRP
-2015;1;NP;97062523275;51;CINDY;MONROY QUINTERO;MEDICINA                                                                                            ;PRP
+2015;1;TI;97062523275;51;CINDY;MONROY QUINTERO;MEDICINA                                                                                            ;PRP
 2015;1;TI;97062600466;21;LARRY SEBASTIAN;MONTERROZA LOPEZ;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;97062607495;51;VANESA PAOLA;GONZALEZ ACEVEDO;MEDICINA                                                                                            ;PRP
 2015;1;TI;97062611611;51;MARIA ALEJANDRA;OROZCO RODRIGUEZ;MEDICINA                                                                                            ;PRP
@@ -7660,7 +7660,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97072303435;11;NATHALY;PEÑA ANDRADE;INGENIERIA DE ALIMENTOS                                                                             ;PRP
 2015;1;TI;97072304768;41;MIGUEL FERNANDO;HERNANDEZ SANCHEZ;DERECHO                                                                                             ;PRP
 2015;1;TI;97072306949;21;CAMILO ANDRES;SALGADO LOZANO;INGENIERIA CIVIL                                                                                    ;PRP
-2015;1;NP;97072307295;42;YANDRI MARCELA;PEREZ PACHECO;TRABAJO SOCIAL                                                                                      ;PRP
+2015;1;TI;97072307295;42;YANDRI MARCELA;PEREZ PACHECO;TRABAJO SOCIAL                                                                                      ;PRP
 2015;1;TI;97072312140;44;LUIS CARLOS;SARAVIA LORA;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
 2015;1;TI;97072312280;39;DAVID RICARDO;BAENA GARAY;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;97072314470;259;AURA CRISTINA;PEREZ MONTIEL;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP
@@ -7671,7 +7671,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97072321050;23;DANIELA PATRICIA;CABRALES SANJUAN;INGENIERIA QUIMICA                                                                                  ;PRP
 2015;1;TI;97072321379;460;GISSELA;GUARDIA ANAYA;INGENIERIA DE SISTEMAS - MAGANGUE                                                                   ;PRP
 2015;1;TI;97072321999;51;YENI FERNANDA;HERNANDEZ CERON;MEDICINA                                                                                            ;PRP
-2015;1;TP;97072323550;259;EMERITA CAROLINA;SALCEDO RICARDO;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP
+2015;1;TI;97072323550;259;EMERITA CAROLINA;SALCEDO RICARDO;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP
 2015;1;TI;97072400872;51;IVETH CECILIA;VEGA CANCHILA;MEDICINA                                                                                            ;PRP
 2015;1;TI;97072403634;11;ADRIANA ALEJANDRA;PUERTA FIGUEROA;INGENIERIA DE ALIMENTOS                                                                             ;PRP
 2015;1;TI;97072421276;23;MARIA CAMILA;LLACH FRANCO;INGENIERIA QUIMICA                                                                                  ;PRP
@@ -7877,7 +7877,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97081418180;23;DAMIAN DAVID;ALCALA LOPEZ;INGENIERIA QUIMICA                                                                                  ;PRP
 2015;1;TI;97081418229;51;CRISTIAN ALFREDO;MEZA CONEO;MEDICINA                                                                                            ;PRP
 2015;1;TI;97081419586;51;HEYDDER DAVID;ROMAN CEBALLOS;MEDICINA                                                                                            ;PRP
-2015;1;CC;97081419721;51;RAFAEL ANTONIO;PEREZ FLOREZ;MEDICINA                                                                                            ;PRP
+2015;1;TI;97081419721;51;RAFAEL ANTONIO;PEREZ FLOREZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;97081420541;41;ANDRES FELIPE;AHUMADA GORDON;DERECHO                                                                                             ;PRP
 2015;1;TI;97081422277;51;YENNI PATRICIA;ANGULO AROCA;MEDICINA                                                                                            ;PRP
 2015;1;TI;97081422331;39;NAHOMIS;MERCADO MARQUEZ;COMUNICACION SOCIAL                                                                                 ;PRP
@@ -8374,7 +8374,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97092722400;51;FELIX RICARDO;CACERES CAMPILLO;MEDICINA                                                                                            ;PRP
 2015;1;TI;97092723350;51;YESSICA ALEJANDRA;GUARIN DIAZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;97092723988;41;BORIS JULIAN;BATISTA RANGEL;DERECHO                                                                                             ;PRP
-2015;1;NP;97092724496;51;ANGIE PAOLA;ARNEDO DIAZ;MEDICINA                                                                                            ;PRP
+2015;1;TI;97092724496;51;ANGIE PAOLA;ARNEDO DIAZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;97092724658;51;ALEJANDRA;MEZA DURAN;MEDICINA                                                                                            ;PRP
 2015;1;TI;97092725255;49;WENDY YANETH;OBREDOR LOPEZ;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;97092725786;22;JUAN ANDRES;NOGUERA MENDOZA;INGENIERIA DE SISTEMAS                                                                              ;PRP
@@ -8428,7 +8428,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97100127702;21;MILTON GUILLERMO;NOREÑA OLIVARES;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;97100128032;49;DANIELA;MEJIA ARRIETA;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;97100205037;52;MARIA FERNANDA;TATIS TORRES;ODONTOLOGIA                                                                                         ;PRP
-2015;1;NP;97100205290;50;ANA MARCELA;CONTRERAS PATERNINA;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
+2015;1;TI;97100205290;50;ANA MARCELA;CONTRERAS PATERNINA;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;TI;97100207030;41;KATHERIN JULIETH;MORENO CANTILLO;DERECHO                                                                                             ;PRP
 2015;1;TI;97100210570;51;BRENDA;ORTIZ CORONEL;MEDICINA                                                                                            ;PRP
 2015;1;TI;97100210758;50;MARY PAULA;JIMÉNEZ TORRES;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
@@ -8775,8 +8775,8 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97102825989;22;DIEGO ARMANDO;MARTINEZ VASQUEZ;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;TI;97102827108;21;GIL ALFONSO;SOLANA YEPES;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;97102904854;44;YISELA EDITH;VERBEL ORTIZ;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
-2015;1;NP;97102910994;49;DANIELA CAROLINA;SERRANO TORRES;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
-2015;1;NP;97102913055;39;MONICA ALEJANDRA;FERREIRA TORRES;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;TI;97102910994;49;DANIELA CAROLINA;SERRANO TORRES;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
+2015;1;TI;97102913055;39;MONICA ALEJANDRA;FERREIRA TORRES;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;97102916330;51;GABRIELA LUCIA;SALGADO NARVAÉZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;97102916356;51;YURANIS YELLEN;PÉREZ SARABIA;MEDICINA                                                                                            ;PRP
 2015;1;TI;97102917840;51;FRANCISCO JAVIER;SINISTERRA ESPEJO;MEDICINA                                                                                            ;PRP
@@ -8835,7 +8835,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97110204276;52;AYLIN YISETH;PEREZ BARRETO;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;97110207135;52;ALEXANDRA PAOLA;DIARTT ALEMÁN;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;97110218854;52;MIRLEY TATIANA;ESCOBAR MEDRANO;ODONTOLOGIA                                                                                         ;PRP
-2015;1;NP;97110220220;51;JESUS DAVID;MENDOZA CABEZA;MEDICINA                                                                                            ;PRP
+2015;1;TI;97110220220;51;JESUS DAVID;MENDOZA CABEZA;MEDICINA                                                                                            ;PRP
 2015;1;TI;97110220689;727;CRISTIAN RAFAEL;ORTIZ ROMERO;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
 2015;1;TI;97110222703;727;ENRIQUE;PALACIO ESPINOSA;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
 2015;1;TI;97110302693;181;LORENA;SANCHEZ CASTAÑO;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP
@@ -8875,7 +8875,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97110520615;42;EVERLYS;RODRIGUEZ PEREZ;TRABAJO SOCIAL                                                                                      ;PRP
 2015;1;TI;97110524955;51;GLORIA PATRICIA;CADAVID ASIS;MEDICINA                                                                                            ;PRP
 2015;1;TI;97110525820;671;ELIAS JOSE;BOBADILLA HERNANDEZ;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP
-2015;1;NP;97110604193;41;CARMEN JULIANA;CARRASCAL GARCÍA;DERECHO                                                                                             ;PRP
+2015;1;TI;97110604193;41;CARMEN JULIANA;CARRASCAL GARCÍA;DERECHO                                                                                             ;PRP
 2015;1;TI;97110604436;42;YULIANA ANDREA; MARTINEZ DAGER;TRABAJO SOCIAL                                                                                      ;PRP
 2015;1;TI;97110605670;41;LUZ KARIME;SERPA ALVAREZ;DERECHO                                                                                             ;PRP
 2015;1;TI;97110607230;54;LUISA ALEJANDRA;ARCOS ROMERO;ENFERMERIA                                                                                          ;PRP
@@ -9139,7 +9139,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97112519410;51;YICELIS DAISURY;MEJIA RODRIGUEZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;97112520930;51;ANGELICA ANDREA;VELASQUEZ MARTINEZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;97112523093;42;ANGIE MELISSA;PADILLA VILLARREAL;TRABAJO SOCIAL                                                                                      ;PRP
-2015;1;NP;97112523751;51;VALERIA ANDREA;NARVÁEZ ANAYA;MEDICINA                                                                                            ;PRP
+2015;1;TI;97112523751;51;VALERIA ANDREA;NARVÁEZ ANAYA;MEDICINA                                                                                            ;PRP
 2015;1;TI;97112523824;21;CARLOS ARTURO;ARRAEZ VILLADIEGO;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;97112523867;22;GUSTAVO MANUEL;RODRIGUEZ RAMOS;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;TI;97112607530;51;CARMEN ALICIA;SANCHEZ GUTIERREZ;MEDICINA                                                                                            ;PRP
@@ -9514,7 +9514,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97122026802;51;KEVIN ENRIQUE;BARBOSA HERRERA;MEDICINA                                                                                            ;PRP
 2015;1;TI;97122108132;51;CINTHYA ISABEL;MONTILLA CORONEL;MEDICINA                                                                                            ;PRP
 2015;1;TI;97122112830;21;EDILUZ;CAMPUZANO JIMENEZ;INGENIERIA CIVIL                                                                                    ;PRP
-2015;1;TP;97122115635;44;LUZ CLARITA;GIRALDO SANCHEZ;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
+2015;1;TI;97122115635;44;LUZ CLARITA;GIRALDO SANCHEZ;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
 2015;1;TI;97122119894;41;VICTORIA EUGENIA;NÁJERA HERNÁNDEZ;DERECHO                                                                                             ;PRP
 2015;1;TI;97122120051;41;SILVIA DE DIOS;GUARDO ARIAS;DERECHO                                                                                             ;PRP
 2015;1;TI;97122120787;54;YEINNER JESUS;LAMBIS ALFARO;ENFERMERIA                                                                                          ;PRP
@@ -9581,7 +9581,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;97122619315;49;YULIS ISABEL;VASQUEZ JIMENEZ;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;97122621158;49;LAURA CAROLINA;OBREGON HERNANDEZ;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;97122621476;49;LUNA ALEJANDRA;LOZADA MARTINEZ;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
-2015;1;NP;97122622928;50;LIBARDO;MARTINEZ RODRIGUEZ;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
+2015;1;TI;97122622928;50;LIBARDO;MARTINEZ RODRIGUEZ;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;TI;97122623592;51;CICELYENETH;SEMACARITT CASTILLO;MEDICINA                                                                                            ;PRP
 2015;1;TI;97122623657;39;VALENTINA;BERNAL TORRES;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;97122623673;23;NANCY CANDELARIA;ROJAS OCHOA;INGENIERIA QUIMICA                                                                                  ;PRP
@@ -9938,7 +9938,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;98012270380;49;YESID ALEJANDRO;MARRUGO QUINTERO;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;98012270399;51;MAVERICK;ACOSTA VEGA;MEDICINA                                                                                            ;PRP
 2015;1;TI;98012271271;47;WENDIS LORAINE;OSPINO GUTIERREZ;LINGUISTICA Y LITERATURA                                                                            ;PRP
-2015;1;CC;98012272758;39;DISARYS CAROLINA;FERNANDEZ GOMEZ;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;TI;98012272758;39;DISARYS CAROLINA;FERNANDEZ GOMEZ;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;98012273100;22;WILLIAM JOSE;YANES BORJA;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;TI;98012273320;50;SANTIAGO ANGEL;TORRES VEGA;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;TI;98012273487;50;DANIEL ALBERTO;ARRIETA MELO;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
@@ -10305,7 +10305,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;98022171666;49;ERWIN VICTOR;IBARRA DIAZ;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;98022171704;22;BRAYAN RAFAEL;RAMOS OSUNA;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;TI;98022256050;49;LAURA MARCELA;GUERRERO ALVAREZ;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
-2015;1;NP;98022257277;50;MARIA ISABEL;MERLANO VILLA;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
+2015;1;TI;98022257277;50;MARIA ISABEL;MERLANO VILLA;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;TI;98022263170;54;LAURA PATRICIA;CAJIGAS BOTETT;ENFERMERIA                                                                                          ;PRP
 2015;1;TI;98022263544;49;JUAN CAMILO;PATIÑO VALDERRAMA;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;98022264885;727;JAVIER DARÍO;SIERRA RAMÍREZ;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
@@ -10695,7 +10695,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;98033165501;54;JHOSERP LUIS;CASTRO MATA;ENFERMERIA                                                                                          ;PRP
 2015;1;TI;98033166354;44;ALEIDA;GARCIA PEÑA;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
 2015;1;TI;98033168446;50;LUIS CARLOS;ALCALA TORRES;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
-2015;1;RC;98033169256;23;CAMILA CAROLINA;BOSSIO CASTILLA;INGENIERIA QUIMICA                                                                                  ;PRP
+2015;1;TI;98033169256;23;CAMILA CAROLINA;BOSSIO CASTILLA;INGENIERIA QUIMICA                                                                                  ;PRP
 2015;1;TI;98033169396;52;LAURA VICTORIA;CONRADO MARIMON;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;98033169655;54;ANA LUCIA;ARROYO ANILLO;ENFERMERIA                                                                                          ;PRP
 2015;1;TI;98033169736;39;LINDA LUCIA;CESPEDES GUTIERREZ;COMUNICACION SOCIAL                                                                                 ;PRP
@@ -10804,7 +10804,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;98040959343;23;RODRIGO ANTONIO;MARTINEZ JIMENEZ;INGENIERIA QUIMICA                                                                                  ;PRP
 2015;1;TI;98040959793;51;ANDREA CAROLINA;LLANOS GUZMAN;MEDICINA                                                                                            ;PRP
 2015;1;TI;98040964592;51;WENDY PAOLA;BELTRAN NIEBLES;MEDICINA                                                                                            ;PRP
-2015;1;NP;98040967451;727;ANDREINA DONELIS;GOMEZ HERNANDEZ;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
+2015;1;TI;98040967451;727;ANDREINA DONELIS;GOMEZ HERNANDEZ;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
 2015;1;TI;98040968105;41;MANUEL JOSE;ORTEGA GAIBAO;DERECHO                                                                                             ;PRP
 2015;1;TI;98040969195;50;LUISA FERNANDA;CAMPO MASBACHE;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
 2015;1;TI;98041052546;41;CRISTIAN JESUS;ASPRILLA PARDO;DERECHO                                                                                             ;PRP
@@ -11430,7 +11430,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;98061371923;41;CARLOS ENRIQUE;BORELLY ROMERO;DERECHO                                                                                             ;PRP
 2015;1;TI;98061416030;41;SANDRA MILENA;MEZA HURTADO;DERECHO                                                                                             ;PRP
 2015;1;TI;98061463569;21;ALEXANDER;BARRAZA ESPAÑA;INGENIERIA CIVIL                                                                                    ;PRP
-2015;1;CC;98061508317;39;SARA ESTHER;DE LA HOZ MEJÍA;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;TI;98061508317;39;SARA ESTHER;DE LA HOZ MEJÍA;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;98061511857;51;ALEXA FERNANDA;JAIMES RANGEL;MEDICINA                                                                                            ;PRP
 2015;1;TI;98061512799;42;LAUREN SANDRID;NUÑEZ HINOJOSA;TRABAJO SOCIAL                                                                                      ;PRP
 2015;1;TI;98061516999;45;VERONICA;GARCIA CHICO;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP
@@ -12200,7 +12200,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;98100166470;51;KATTY PAOLA;RESTREPO TEJADA;MEDICINA                                                                                            ;PRP
 2015;1;TI;98100167255;39;HILDA PAOLA;ORTEGA DE ARCO;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;98100167271;47;LORIS CRISTINA;FUENTES OSPINO;LINGUISTICA Y LITERATURA                                                                            ;PRP
-2015;1;CA;98100167549;21;LUIS GUILLERMO;CARDENAS PINEDA;INGENIERIA CIVIL                                                                                    ;PRP
+2015;1;TI;98100167549;21;LUIS GUILLERMO;CARDENAS PINEDA;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;98100171325;21;ALEXANDER;ALZAMORA  ARRIETA;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;98100171457;51;LEANDRA;SMITH ARANGO;MEDICINA                                                                                            ;PRP
 2015;1;TI;98100171856;50;ADRIANA MARCELA;ESPITIA OROZCO;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
@@ -12391,7 +12391,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;98110620855;41;GLACIER MARIA;LENIS LLORENTE;DERECHO                                                                                             ;PRP
 2015;1;TI;98110621582;41;ARIEL;CASTRO LEONES;DERECHO                                                                                             ;PRP
 2015;1;TI;98110622333;54;NIDIA CRISTINA;MARRUGO CABALLERO;ENFERMERIA                                                                                          ;PRP
-2015;1;NP;98110623135;51;JEIMMY PAOLA;JOLY RODRIGUEZ;MEDICINA                                                                                            ;PRP
+2015;1;TI;98110623135;51;JEIMMY PAOLA;JOLY RODRIGUEZ;MEDICINA                                                                                            ;PRP
 2015;1;TI;98110769547;48;JHOINNER ANDRES;POLO TOUS;HISTORIA                                                                                            ;PRP
 2015;1;TI;98110770138;39;RUBY ALEJANDRA;VILLARREAL JULIO;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;98110856806;11;JOSE FERNANDO;MARTINEZ SIMARRA;INGENIERIA DE ALIMENTOS                                                                             ;PRP
@@ -12600,7 +12600,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;99011405599;39;LEIDIS VANESSA;TATIS ESCORCIA;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;TI;99011408695;42;LINA PAOLA;MARTINEZ BLANQUICET;TRABAJO SOCIAL                                                                                      ;PRP
 2015;1;TI;99011410886;51;ERIC RAFAEL;CARABALLO COLEY;MEDICINA                                                                                            ;PRP
-2015;1;CC;99011413591;224;LINA MARCELA;RODRIGUEZ ARRIETA;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP
+2015;1;TI;99011413591;224;LINA MARCELA;RODRIGUEZ ARRIETA;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP
 2015;1;TI;99011608490;51;LAURA FERNANDA;BONILLA MENDOZA;MEDICINA                                                                                            ;PRP
 2015;1;TI;99011615020;51;JOSÉ MIGUEL;GOMEZ HERRERA;MEDICINA                                                                                            ;PRP
 2015;1;TI;99011616956;51;JHOANA ALEJANDRA;MARQUEZ ROMERO;MEDICINA                                                                                            ;PRP
@@ -12795,12 +12795,12 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;99072410277;20;MARÍA FERNANDA;MUÑOZ MARTÍNEZ;MATEMATICAS                                                                                         ;PRP
 2015;1;TI;99072412067;51;SERGIO RAFAEL;TRESPALACIOS PENICHE;MEDICINA                                                                                            ;PRP
 2015;1;TI;99073003535;41;ANDREA LUCIA;TORRRES MERLANO;DERECHO                                                                                             ;PRP
-2015;1;NP;99080102662;51;FELIPE HERRERA;HERRERA LOZANO;MEDICINA                                                                                            ;PRP
+2015;1;TI;99080102662;51;FELIPE HERRERA;HERRERA LOZANO;MEDICINA                                                                                            ;PRP
 2015;1;TI;99080105661;22;JESÚS DANIEL;VILORIA PINEDA;INGENIERIA DE SISTEMAS                                                                              ;PRP
 2015;1;TI;99080302378;51;NATALIA PATRICIA;MOSCOSO CORREA;MEDICINA                                                                                            ;PRP
 2015;1;TI;99090204110;41;MAYRA ALEJANDRA;PUELLO MORALES;DERECHO                                                                                             ;PRP
 2015;1;TI;99090712191;51;ALY MARY;ORTIZ MAZA;MEDICINA                                                                                            ;PRP
-2015;1;CA;99091109359;52;JERALDINE;CASTRO JULIO;ODONTOLOGIA                                                                                         ;PRP
+2015;1;TI;99091109359;52;JERALDINE;CASTRO JULIO;ODONTOLOGIA                                                                                         ;PRP
 2015;1;TI;99091303503;49;LUCAS DAVID;DIAZ HERNANDEZ;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
 2015;1;TI;99091611844;51;EVERTO JUNIOR;MARES MESINO;MEDICINA                                                                                            ;PRP
 2015;1;TI;99092705532;51;ANGELICA PATRICIA;ESTREMOR HERRERA;MEDICINA                                                                                            ;PRP
@@ -12817,31 +12817,31 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;99111104804;51;EDUAR ALFONSO;GUTIERREZ ESCOBAR;MEDICINA                                                                                            ;PRP
 2015;1;TI;99111710054;54;HILLARY;SALAS TABORDA;ENFERMERIA                                                                                          ;PRP
 2015;1;TI;99121608614;21;LAURY LUZ;LOPEZ CASTRO;INGENIERIA CIVIL                                                                                    ;PRP
-2015;1;CC;1,23141E+11;600;23132323;123132;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP
-2015;1;TI;9,60915E+11;21;KATHERIN PAOLA;ROMERO ZABALETA;INGENIERIA CIVIL                                                                                    ;PRP
-2015;1;TI;9,61111E+11;51;NESTOR ENRIQUE;RAMOS PAJARO;MEDICINA                                                                                            ;PRP
-2015;1;TI;9,7022E+11;50;MARIA JOSE;GUERRERO QUIROZ;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
-2015;1;TI;9,70332E+11;51;PAULA ANDREA;PIANETA LEAL;MEDICINA                                                                                            ;PRP
-2015;1;TI;9,70417E+11;39;ANDREA KAROLINA;LLANOS PEÑA;COMUNICACION SOCIAL                                                                                 ;PRP
-2015;1;TI;9,70711E+11;51;ELOISA FERNANDA;VARGAS MORELO;MEDICINA                                                                                            ;PRP
-2015;1;TI;9,70813E+11;52;SHIRLEY PAOLA;AMAYA SANCHAZ;ODONTOLOGIA                                                                                         ;PRP
-2015;1;TI;9,71003E+11;50;WILLIAN JOSE;MARQUEZ ARENA;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
-2015;1;TI;9,7101E+11;49;WILFRIDO JUNIOR;SANCHEZ PEÑATA;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
-2015;1;TI;9,7121E+11;51;LICETH;GARCIA VILLARREAL;MEDICINA                                                                                            ;PRP
-2015;1;TI;9,71221E+11;51;CELENE CAROLINA;PEREZ GUARDO;MEDICINA                                                                                            ;PRP
-2015;1;TI;9,71222E+11;51;YAIR DE JESUS;JIMENEZ CARO;MEDICINA                                                                                            ;PRP
-2015;1;TI;9,71229E+11;51;JOSE FERNANDO;BANQUETT FLOREEZ;MEDICINA                                                                                            ;PRP
-2015;1;TI;9,80062E+11;44;DAYANNA NICOLD;FLOREZ CHOPERENA;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
-2015;1;TI;9,80117E+11;39;DUSSY ANGÉLICA;PÉREZ ZÚÑIGA;COMUNICACION SOCIAL                                                                                 ;PRP
-2015;1;TI;9,80328E+11;52;ANGIE CAROLINA;MUÑOZ SIBAJA;ODONTOLOGIA                                                                                         ;PRP
-2015;1;TI;9,80331E+11;51;JUAN DAVID;ALDANA ROA;MEDICINA                                                                                            ;PRP
-2015;1;TI;9,80508E+11;22;ROBERT ANDRÉS;PANTOJA CALDERÓN;INGENIERIA DE SISTEMAS                                                                              ;PRP
-2015;1;TI;9,80509E+11;23;BRYAN ENRIQUE;ACOSTA ANGULO;INGENIERIA QUIMICA                                                                                  ;PRP
-2015;1;TI;9,80518E+11;44;JOSE EDUARDO;IRIARTE VIVERO;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
-2015;1;TI;9,8061E+11;21;MARIA MONICA;SALGADO MOLINA;INGENIERIA CIVIL                                                                                    ;PRP
-2015;1;TI;9,80812E+11;51;KAREN YULIETH;LABIOSA GIRALDO;MEDICINA                                                                                            ;PRP
-2015;1;TI;7,25723E+12;42;CLAUDIA ELENA;MEDRANO FLOREZ;TRABAJO SOCIAL                                                                                      ;PRP
-2015;1;CC;3,33104E+14;109;ALEXANDRA PATRICIA;LEON CASTILLO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP
+2015;1;CC;1,23E+11;600;23132323;123132;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP
+2015;1;TI;9,61E+11;21;KATHERIN PAOLA;ROMERO ZABALETA;INGENIERIA CIVIL                                                                                    ;PRP
+2015;1;TI;9,61E+11;51;NESTOR ENRIQUE;RAMOS PAJARO;MEDICINA                                                                                            ;PRP
+2015;1;TI;9,70E+11;50;MARIA JOSE;GUERRERO QUIROZ;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
+2015;1;TI;9,70E+11;51;PAULA ANDREA;PIANETA LEAL;MEDICINA                                                                                            ;PRP
+2015;1;TI;9,70E+11;39;ANDREA KAROLINA;LLANOS PEÑA;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;TI;9,71E+11;51;ELOISA FERNANDA;VARGAS MORELO;MEDICINA                                                                                            ;PRP
+2015;1;TI;9,71E+11;52;SHIRLEY PAOLA;AMAYA SANCHAZ;ODONTOLOGIA                                                                                         ;PRP
+2015;1;TI;9,71E+11;50;WILLIAN JOSE;MARQUEZ ARENA;CONTADURIA PUBLICA DIURNA                                                                           ;PRP
+2015;1;TI;9,71E+11;49;WILFRIDO JUNIOR;SANCHEZ PEÑATA;ADMINISTRACION INDUSTRIAL                                                                           ;PRP
+2015;1;TI;9,71E+11;51;LICETH;GARCIA VILLARREAL;MEDICINA                                                                                            ;PRP
+2015;1;TI;9,71E+11;51;CELENE CAROLINA;PEREZ GUARDO;MEDICINA                                                                                            ;PRP
+2015;1;TI;9,71E+11;51;YAIR DE JESUS;JIMENEZ CARO;MEDICINA                                                                                            ;PRP
+2015;1;TI;9,71E+11;51;JOSE FERNANDO;BANQUETT FLOREEZ;MEDICINA                                                                                            ;PRP
+2015;1;TI;9,80E+11;44;DAYANNA NICOLD;FLOREZ CHOPERENA;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
+2015;1;TI;9,80E+11;39;DUSSY ANGÉLICA;PÉREZ ZÚÑIGA;COMUNICACION SOCIAL                                                                                 ;PRP
+2015;1;TI;9,80E+11;52;ANGIE CAROLINA;MUÑOZ SIBAJA;ODONTOLOGIA                                                                                         ;PRP
+2015;1;TI;9,80E+11;51;JUAN DAVID;ALDANA ROA;MEDICINA                                                                                            ;PRP
+2015;1;TI;9,81E+11;22;ROBERT ANDRÉS;PANTOJA CALDERÓN;INGENIERIA DE SISTEMAS                                                                              ;PRP
+2015;1;TI;9,81E+11;23;BRYAN ENRIQUE;ACOSTA ANGULO;INGENIERIA QUIMICA                                                                                  ;PRP
+2015;1;TI;9,81E+11;44;JOSE EDUARDO;IRIARTE VIVERO;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP
+2015;1;TI;9,81E+11;21;MARIA MONICA;SALGADO MOLINA;INGENIERIA CIVIL                                                                                    ;PRP
+2015;1;TI;9,81E+11;51;KAREN YULIETH;LABIOSA GIRALDO;MEDICINA                                                                                            ;PRP
+2015;1;TI;7,26E+12;42;CLAUDIA ELENA;MEDRANO FLOREZ;TRABAJO SOCIAL                                                                                      ;PRP
+2015;1;CC;3,33E+14;109;ALEXANDRA PATRICIA;LEON CASTILLO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP
 2015;1;CC;1045670443O    ;123;MICHAEL ANDRES;MORALES MEZA;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP
 2015;1;CC;1O65002733     ;601;LUISA FERNANDA;SANCHEZ PERES;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP
 2015;1;PS;PASAPORTE      ;123;MARTIN JESUS;ESTRADA BALTAZAR;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP
