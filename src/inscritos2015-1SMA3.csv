@@ -705,7 +705,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;51593335;112;ISABEL CRISTINA;LARA OSPINO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP
 2015;1;CC;51838084;41;ROSA;RODRIGUEZ HERNANDEZ;DERECHO                                                                                             ;PRP
 2015;1;CC;51993752;190;ANETT EMILIA;CAÑATE ULLOQUE;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP
-2015;1;PS;52459440;129;ANITA ANDREA;PEROCHENA TREHAN;MAESTRIA EN CIENCIAS FARMACEUTICAS                                                                  ;PRP
+2015;1;CC;52459440;129;ANITA ANDREA;PEROCHENA TREHAN;MAESTRIA EN CIENCIAS FARMACEUTICAS                                                                  ;PRP
 2015;1;CC;52717544;179;PAULA XIMENA;PAREJA LOAIZA;DOCTORADO EN MEDICINA TROPICAL                                                                      ;PRP
 2015;1;CC;52772057;326;CLAUDIA MARINA;MURCIA BAQUERO;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
 2015;1;CC;55221192;45;YURY;BLANDON AREVALO;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP
@@ -1061,6 +1061,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;85446668;191;ARQUIMEDES;CONTRERAS CAMPO;MAESTRIA EN DERECHO                                                                                 ;PRP
 2015;1;CC;85485076;109;ROBERTO CARLOS;MIRANDA VARGAS;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP
 2015;1;CC;85486531;326;LUIS CARLOS;DE ORO GUTIERREZ;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
+2015;1;CC;85940279;112;JESSYMAR FRANCHESCA;DANEAU TOVAR;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP
 2015;1;CC;92070833;224;ROBER MIGUEL;MERLANO MENDEZ;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP
 2015;1;CC;92099856;595;JOSE FERNANDO;ACOSTA DIAZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP
 2015;1;CC;92131653;51;DAVID ENRIQUIE;LEGUIA VARGAS;MEDICINA                                                                                            ;PRP
@@ -1087,7 +1088,6 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;100555245;595;CINDY MILENA;HERRERA ACUÑA;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP
 2015;1;TI;102478141;42;LUIS ENRIQUE;BENAVIDEZ FERRER;TRABAJO SOCIAL                                                                                      ;PRP
 2015;1;CC;105003563;110;ESTIFEN JOHAM;DE AVILA PACHECO;ESPECIALIZACION EN FINANZAS                                                                         ;PRP
-2015;1;CC;105182025;326;DANIEL ENRIQUE;DANIEL ENRIQUE;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
 2015;1;CC;106500644;602;CRISTIAN ORLANDO;SAENZ GONZALEZ;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP
 2015;1;CC;733325252;174;ROSA;MELTROSO PARADO;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   
 2015;1;TI;961018491;51;MARISABEL;VARGAS SOLIS;MEDICINA                                                                                            ;PRP
@@ -3486,6 +3486,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;1051819882;39;LAURA MELISA;AHUMADA IBAÑEZ;COMUNICACION SOCIAL                                                                                 ;PRP
 2015;1;CC;1051820056;224;EVELIN JESMIT;CARMONA MANJARREZ;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP
 2015;1;CC;1051820250;326;DANIEL ENRIQUE;DANIEL ENRIQUE;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
+2015;1;CC;1051820251;326;DANIEL ENRIQUE;DANIEL ENRIQUE;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
 2015;1;CC;1051820354;21;JAIME ANDRES;SERRANO CARMONA;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;CC;1051820400;326;GERARDINE DEL CARMEN;MUÑOZ VILLAREAL;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP
 2015;1;CC;1051820603;224;DIVANIS PAOLA;HERRERA GAZABON;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP
@@ -4253,7 +4254,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;1070823165;216;OLGA MARCELA;CHALJUB RUBIO;ADMINISTRACION FINANCIERA - LORICA                                                                  ;PRP
 2015;1;CC;1070823166;467;ERIK MIGUEL;PAJARO DIAZ;INGENIERIA DE SISTEMAS - LORICA                                                                     ;PRP
 2015;1;CC;1070823262;216;ANA GINETH;MORELO GUARDO;ADMINISTRACION FINANCIERA - LORICA                                                                  ;PRP
-2015;1;TI;1071350350;602;YAIR ALFREDO;ARRIETA PETRO;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP
+2015;1;CC;1071350350;602;YAIR ALFREDO;ARRIETA PETRO;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP
 2015;1;TI;1071350838;602;YAIR ALFREDO;ARRIETA PETRO;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP
 2015;1;CC;1071356709;601;LUIS ALBERTO;AVILEZ PEREZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP
 2015;1;CC;1072251134;467;LEWIS ALFREDO;SALGADO ARRIETA;INGENIERIA DE SISTEMAS - LORICA                                                                     ;PRP
@@ -4468,6 +4469,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;CC;1102831357;179;ZAFIRO;BARRAZA;DOCTORADO EN MEDICINA TROPICAL                                                                      ;PRP
 2015;1;CC;1102832990;170;OSCAR ELIAS;CARMONA WILCHES;MAESTRIA EN INMUNOLOGIA                                                                             ;PRP
 2015;1;CC;1102833895;53;CINDY PAOLA;MENDEZ MESTRA;QUIMICA FARMACEUTICA                                                                                ;PRP
+2015;1;CC;1102836749;150;ROGER EDUARDO;BALDOVINO DIAZ;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   
 2015;1;CC;1102840537;111;LAURA MILENA;NAVARRO LIDUEÑA;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP
 2015;1;CC;1102843699;129;NEYDER DE JESUS;CONTRERAS PUENTES;MAESTRIA EN CIENCIAS FARMACEUTICAS                                                                  ;PRP
 2015;1;CC;1102843741;191;DANIEL ALFREDO;MONTERROZA PATERNINA;MAESTRIA EN DERECHO                                                                                 ;PRP
@@ -6011,6 +6013,7 @@ agnprs;prdprs;ideprs;nriprs;nropgm;nomprs;apeprs;nompgm;codcnv
 2015;1;TI;96101304695;42;JESSICA CAROLINA;LOPEZ LOPEZ;TRABAJO SOCIAL                                                                                      ;PRP
 2015;1;TI;96101306116;41;SHAKIRA ELENA;DIAZ OTERO;DERECHO                                                                                             ;PRP
 2015;1;TI;96101308119;727;DANIELA STEPHANIE;PEÑARANDA GUALTEROS;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP
+2015;1;TI;96101318564;21;Yajer David;Padilla Moreno;INGENIERIA CIVIL                                                                                    ;PRP
 2015;1;TI;96101319030;51;LILIA CAROLINA;COHEN FONTALVO;MEDICINA                                                                                            ;PRP
 2015;1;TI;96101319323;51;JUAN ANDRES;CAÑAS REMÓN;MEDICINA                                                                                            ;PRP
 2015;1;TI;96101323150;54;SANDRY MARCELA;JIMENEZ CONSUEGRA;ENFERMERIA                                                                                          ;PRP
