@@ -20,19 +20,19 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;7384945;54744;JUAN CARLOS;GALVÁN FAJARDO;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Facturado      
 2015;1;CC  ;7384953;54701;PEDRO MANUEL;OSORIO GARCES;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
 2015;1;CC  ;7385545;54595;ORLANDO ENRIQUE;COGOLLO LOPEZ;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Facturado      
-2015;1;CC  ;7600800;;CARLOS ALBERTO;SANCHEZ CANTILLO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
-2015;1;CC  ;7918544;;FREDYS FERNANDO;ACEVEDO PAUTT;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;7600800;103614;CARLOS ALBERTO;SANCHEZ CANTILLO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
+2015;1;CC  ;7918544;103783;FREDYS FERNANDO;ACEVEDO PAUTT;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;7919253;7810;YONY DE JESÚS;DÍAZ ALVEAR;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Facturado      
-2015;1;CC  ;7920232;;JAVIER MAURICIO;MASTRASCUSA GRISOLLE;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;7920232;103783;JAVIER MAURICIO;MASTRASCUSA GRISOLLE;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;7920367;103272;WILLIAM ENRIQUE;GOMEZ CORTES;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;7921419;103272;ALVARO DE JESUS;VILLARRAGA MONTES;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;7921539;3325;EDUARDO ENRIQUE;FRANCO OSORIO;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;7921721;103272;ANGEL;MATTOS AREVALO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;7921807;;JUAN CARLOS;DE LA BARRERA MONCARIS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;7921807;103783;JUAN CARLOS;DE LA BARRERA MONCARIS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;7921950;766;JUAN CARLOS;BURGOS ROLON;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;7930603;102460;EDELBERTO;PUERTA ARIÑA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;7931711;102460;GABRIEL EDGARDO;MEDINA VERGARA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
-2015;1;CC  ;8188597;;PEDRO;CABARCA AVILA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;8188597;103783;PEDRO;CABARCA AVILA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;8311897;102460;GUILLERMO ELIAS;GONZALEZ FARAH;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;8319662;103272;RODOLFO ENRIQUE;DIAZ WRIGHT;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;8359242;738;JHONNY ALBEIRO;MENA MENA;ODONTOLOGIA                                                                                         ;PRP;Admitido ..    
@@ -43,14 +43,14 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;8712339;54701;LUIS EDUARDO;DEL PORTILLO MOJICA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;8735021;54595;EDGAR RAFAEL;MUÑOZ SALCEDO;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Facturado      
 2015;1;CC  ;8747808;7810;NARCISO ENRIQUE;HURTADO OSORIO;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Facturado      
-2015;1;CC  ;8798109;;JUAN AUGUSTO;JUAN AUGUSTO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;8833937;;MAXWELL;MARTELO ;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;8798109;103783;JUAN AUGUSTO;JUAN AUGUSTO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;8833937;103614;MAXWELL;MARTELO ;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;8850866;102460;REGIS;ORTIZ ROJAS;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;8851396;770;HAROLD ANTONIO;MOSQUERA SAYAS;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;8851993;766;FRANKLIN;FRANKLIN;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;8852068;54701;RAFAEL ENRIQUE;LOPEZ MERCADO;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;8852196;103272;RODOLFO;GUERRERO VENTURA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;8852894;;JOSE DANIEL;MARTINEZ MUÑOZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;8852894;103783;JOSE DANIEL;MARTINEZ MUÑOZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;8852903;744;ROQUE LUIS;MONTERRROSA SALCEDO;FILOSOFIA                                                                                           ;PRP;Admitido ..    
 2015;1;CC  ;8853375;103272;GERMAN ENRIQUE;OLIER OLIVER;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;8853742;54595;AMAURY DAVID;VILORIA VASQUEZ;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
@@ -58,7 +58,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;8854727;17698;LUIS FERNANDO;ZUÑIGA PAEZ;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
 2015;1;CC  ;8865556;54490;ALVARO;LOPEZ MORENO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
 2015;1;CC  ;8865846;54701;ROBERTO DE JESUS;LASTRE MALDONADO;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
-2015;1;CC  ;8865964;;ESTIVEN;RUZ PALLARES;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;8865964;103614;ESTIVEN;RUZ PALLARES;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;8866098;54595;JEISSON RAFAEL;MADERA MEDINA;ADMINISTRACION FINANCIERA - MAGANGUE                                                                ;PRP;Facturado      
 2015;1;CC  ;9020164;54744;DIXON;HERRERA MARTINEZ;INGENIERIA DE SISTEMAS - MAGANGUE                                                                   ;PRP;Facturado      
 2015;1;CC  ;9020570;54744;NELSON RAFAEL;VESGA TORRECILLA;INGENIERIA DE SISTEMAS - MAGANGUE                                                                   ;PRP;Facturado      
@@ -70,7 +70,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;9060897;103272;FERNANDO ANTONIO;HERAZO GIRON;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;9078354;103272;JOSE GUILLERMO;CASTILLO CASTILLO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;9078388;103272;DAVID MERCADO;MERCADO PEREZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;9087142;;MIGUEL ANTONIO;CARCAMO ESCAÑO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;9087142;103783;MIGUEL ANTONIO;CARCAMO ESCAÑO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;9096667;766;GRELDY RAFAEL;JIMENEZ FIGUEROA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;9103929;103272;RONALD;UBARNES RUIZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;9104781;54490;RODOLFO;GRAU VASQUEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
@@ -88,20 +88,20 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;9178589;103272;MIGUEL EDUARDO;GARCIA PRADA;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;9178769;770;JORGE LUIS;CARBAL TORRES;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;9197885;54701;JORGE RICARDO;ALEAN ACUÑA;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
-2015;1;CC  ;9237231;;ALEX MANUEL;HERNANDEZ MERCADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;9237231;103783;ALEX MANUEL;HERNANDEZ MERCADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;9238093;54701;NIVALDO;NOVA RUIDIAZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
 2015;1;CC  ;9270002;54744;CARLOS ARTURO;MARTINEZ ANCIZAR;INGENIERIA DE SISTEMAS - MOMPOX                                                                     ;PRP;Facturado      
 2015;1;CC  ;9272167;54701;JOSE ALBERTO;ALFARO ECHEVERRIA;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
 2015;1;CC  ;9274310;54744;PEDRO PABLO;PABA RENGIFO;INGENIERIA DE SISTEMAS - MOMPOX                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;9285386;54490;JAVIER;PAYARES MARIMON;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
-2015;1;CC  ;9291714;;EDWIN RICARDO;LOPEZ MURILLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;9291714;103783;EDWIN RICARDO;LOPEZ MURILLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;9291938;54744;DAVID LEONARDO;ESPARZA MALDONADO;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;9294136;102460;WILLIAM ALBERTO;CUETO DE LA ROSA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;9295124;747;ELVIS ENRIQUE;GARRIDO VILLALBA;INGENIERIA CIVIL                                                                                    ;PRP;Admitido ..    
 2015;1;CC  ;9297058;54744;EDWIN;FERNANDEZ RODRIGUEZ;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;9297890;9367;HAYDIN EMILIO;DIAZ ANAYA;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Admitido ..    
 2015;1;CC  ;9298019;3325;RODIAN;PADILLA LOPEZ;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
-2015;1;CC  ;9299103;;ISDAEL EDUARDO;PEREZ GUERRERO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;9299103;103783;ISDAEL EDUARDO;PEREZ GUERRERO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;9299333;7816;JAIRO ALONSO;MENDOZA BLNCO;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
 2015;1;CC  ;10456977;53730;ANDRES DE JESUS;FONSECA HOYOS;MAESTRIA EN CIENCIAS FARMACEUTICAS                                                                  ;PRP;Facturado      
 2015;1;CC  ;10678830;54701;JOSE JAVIER;CARDENAS RICARDO;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
@@ -134,7 +134,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;11514524;54744;ESTEBAN ENRRIQUE;JIMENEZ DURANGO;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Facturado      
 2015;1;CC  ;11805610;91076;JAIR;CUESTA NAGLES;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Facturado      
 2015;1;CC  ;11810801;91076;YUBER;PALACIOS TORRES;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Admitido ..    
-2015;1;CC  ;11814254;;ANDRES MARCELO;ROMERO AGUDELO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;11814254;103783;ANDRES MARCELO;ROMERO AGUDELO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;11814532;91076;HARRY;GUTIÉRREZ MOSQUERA;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;12624068;770;MISAEL ALFREDO DE JESUS;ORTIZ RESTREPO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;15272810;54490;NICOLAS ANTONIO;GAVIRIA CASTELLANO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
@@ -156,7 +156,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;19897113;54490;LUIS EDUARDO;BELEÑO ORTIZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;21526757;7816;YESSICA PAOLA;MEJIA VILLA;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
 2015;1;CC  ;22212198;15343;NUBIA LOURDES;VASQUEZ CASTILLO;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP;Admitido ..    
-2015;1;CC  ;22563372;;DAILYS ESTHER;DE LA VEGA CABEZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;22563372;103783;DAILYS ESTHER;DE LA VEGA CABEZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;22642488;54701;JASMIN DEL ROSARIO;JALLER LUNA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;22667831;102460;NANCY ELENA;MONTES ANGARITA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;22789644;770;YAMILE;PUELLO DIAZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
@@ -176,12 +176,12 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;22803564;102460;BETTY;LEON BATISTA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;22805531;10461;YEXY DEL CARMEN;PRENTH MATUTE;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
 2015;1;CC  ;22807446;766;KATTY HEIDY;GUERRERO CAVANA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
-2015;1;CC  ;22807651;;YOHANIS CECILIA;MERCADO BARRIOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;22807717;;MARIA DEL ROSARIO;MERIÑO DIAZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;22807916;;MARIA DEL CARMEN;FIERRO VARGAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
-2015;1;CC  ;22808744;;INDIRA;LAMBRAÑO TATIS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;22807651;103783;YOHANIS CECILIA;MERCADO BARRIOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;22807717;103783;MARIA DEL ROSARIO;MERIÑO DIAZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;22807916;103783;MARIA DEL CARMEN;FIERRO VARGAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;22808744;103783;INDIRA;LAMBRAÑO TATIS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;22809583;103272;SHYRLEY PATRICIA;TUÑON VASQUEZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;22810219;;ALMA MILENA;GARCIA SARMIENTO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;22810219;103783;ALMA MILENA;GARCIA SARMIENTO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;22810428;51577;LUCIA DE LA CANDELARIA;CARMONA BARROSO;MAESTRIA EN QUIMICA                                                                                 ;PRP;Facturado      
 2015;1;CC  ;22810788;3325;YENNIS DEL CARMEN;CONEO JIMENEZ;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;22810856;54595;EUSEBIA DEL CARMEN;PEREZ AVILA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
@@ -190,7 +190,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;23002585;54701;LINA MARIA;VASQUEZ PIEDRAHITA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;23068979;103272;SAGRARIO DE JESUS;NIETO NAVARRO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;23136371;103272;NEIDILIA;AYOLA PEREZ ;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
-2015;1;CC  ;25203090;;BRINY LORENA;JALAL PETRO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;25203090;103783;BRINY LORENA;JALAL PETRO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;25785709;54595;DIANA MARIA;SCHOONEWOLF ESPITIA;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Facturado      
 2015;1;CC  ;25785755;103272;SANDRA MILENA;ZUÑIGA HERNANDEZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;25875491;54701;BEATRIZ ELENA;ALIAN RAMOS;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Admitido ..    
@@ -201,16 +201,16 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;26176243;54744;CATIA ISABEL;CRUZ GARCIA;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Facturado      
 2015;1;CC  ;26202912;54701;MARIA NELA;RAILLO MARTINEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Admitido ..    
 2015;1;CC  ;26203028;54595;ENA LUCÍA;HERNÁNDEZ PUENTES;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Facturado      
-2015;1;CC  ;26801488;;JOSEFINA TERESA;MELGAREJO CAMARGO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;26801488;103783;JOSEFINA TERESA;MELGAREJO CAMARGO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;27620677;103272;DEISY MABEL;RINCON RINCON;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;29672996;15343;ADALGISA;CARVAJAL PILLIMUE;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP;Facturado      
 2015;1;CC  ;30582600;17698;EBLIN ESTELA;CONDE ARRIETA;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Facturado      
 2015;1;CC  ;30582606;17698;EBLIN ESTELA;CONDE ARRIETA;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
 2015;1;CC  ;30660235;54701;LEANIS YANETH;FLOREZ ARTEAGA;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
-2015;1;CC  ;30662334;;ISDUMITH DEL ROSARIO;ESCOBAR RAMOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;30667105;;LORENYS;RAMOS BURGOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;30662334;103783;ISDUMITH DEL ROSARIO;ESCOBAR RAMOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;30667105;103783;LORENYS;RAMOS BURGOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;30667340;54701;YULY  PAULINA;NEGRETE HERNANDEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
-2015;1;CC  ;30670147;;ROSA ELENA;CARDENAS CUADRADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;30670147;103783;ROSA ELENA;CARDENAS CUADRADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;30670514;54595;NATALY;AMADOR CARDENAS;ADMINISTRACION FINANCIERA - LORICA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;30670632;103272;MARCELA JUDITH;MARTINEZ PACHECHO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;30687140;54490;INGRIS CECILIA;GALEANO AYALA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
@@ -232,9 +232,9 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;32786532;745;KATTY GREGORY;GOENAGA NÚÑEZ;HISTORIA                                                                                            ;PRP;Admitido ..    
 2015;1;CC  ;32793830;54490;ADRIANA;BLANCO BURGOS;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
 2015;1;CC  ;32847029;10461;ANA MARIA;PRIETO BERDUGO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
-2015;1;CC  ;32851510;;DIANA;JIMENEZ MARTINEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;32851510;103783;DIANA;JIMENEZ MARTINEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;32855637;10461;YARLEIDYS PATRICIA;PAEZ SARMIENTO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
-2015;1;CC  ;32857191;;INDIANA LUZ;ROJAS TORRES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;32857191;103783;INDIANA LUZ;ROJAS TORRES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;32859568;17698;LEDYS GREGORIA;REDONDO POLANCO;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
 2015;1;CC  ;32888490;54701;MILDRED DEL CARMEN;CUEVAS DUARTE;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;32893609;10461;MILENA  PATRICIA;ESTRADA CASSIANI;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
@@ -249,10 +249,10 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;32936651;103272;KATIA DEL CARMERN;JOLY VILLAREAL;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;32937013;102460;JENNIFER;ZURITA PATRON;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;32937150;770;YUDETH PAOLA;LORA MERCADO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
-2015;1;CC  ;32938034;;MELISSA;BRU PERALTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;32938034;103783;MELISSA;BRU PERALTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;32938191;54595;EDELMIRA GREGORIA;RENTERIA FERIA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;32938756;54595;MARIA MARGARITA;PEÑARANDA GARCIA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
-2015;1;CC  ;32939167;;MARGARETH;DE DIEGO PEREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;32939167;103783;MARGARETH;DE DIEGO PEREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;32939490;766;ERIKA MILENA;NAVARRO MEDINA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;32939636;10461;KELLY ESTER;PATIÑO RODIÑO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;32939677;10461;DARLING KARINA;JARABA VEGA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
@@ -278,14 +278,14 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;33200078;54701;NIDIA BEATRIZ;BRAVO HERNANDEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;CC  ;33207898;54744;AURY EMILCE;MERCADO PAYARES;INGENIERIA DE SISTEMAS - MAGANGUE                                                                   ;PRP;Facturado      
 2015;1;CC  ;33208973;54490;MONICA ESTER;VILLANUEVA RICAURTE;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
-2015;1;CC  ;33209222;;DELIA MARIA;RICO MARQUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;33209222;103783;DELIA MARIA;RICO MARQUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;33215262;54744;ELBA DE JESUS;MARTINEZ MONTESINO;INGENIERIA DE SISTEMAS - MOMPOX                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;33217312;3325;JANETH;GALE DOMINGUEZ;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;33221174;54701;MARLY;CURREA DE LA CRUZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Facturado      
 2015;1;CC  ;33222258;54701;KATERINE;LANDABUR PUELLO;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
 2015;1;CC  ;33223063;54701;YOLIMA DEL CARMEN;AGUILAR VANEGAS;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
 2015;1;CC  ;33223103;54701;ANGELA CRISTINA;DELGADO NAVARRO;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
-2015;1;CC  ;33223904;;KATERINE;GARCIA ANAYA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;33223904;103783;KATERINE;GARCIA ANAYA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;33223933;54701;IRINA ISABEL;BELEÑO MORALES;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
 2015;1;CC  ;33224173;54701;YURANYS;ROBLES RODRIGUEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Facturado      
 2015;1;CC  ;33227071;54744;ALEXANDRA MARIA;DIAZ CASTRO;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturado      
@@ -313,10 +313,10 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;33353878;10461;MARGARITA ISABEL;CABALLERO DE LEON;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;33354276;54701;LILIANA PAOLA;GARCÍA RUEDA;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;CC  ;33357861;54701;SULEIMA;GUARDO ANILLO;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
-2015;1;CC  ;33358015;;INGRID;ANAYA PEÑA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;33358015;103783;INGRID;ANAYA PEÑA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;33358093;19723;BELCKIS DEL CARMEN;PEREZ BOSSIO;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;33358618;;KAREN YEMIRA;CASTRO ZUÑIGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;34331826;;MARIA ISABEL;CUARAN DIAZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;33358618;103783;KAREN YEMIRA;CASTRO ZUÑIGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;34331826;103783;MARIA ISABEL;CUARAN DIAZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;35115101;54490;NUBY ESTHER;CABALLERO PETRO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
 2015;1;CC  ;35116496;54595;KELINEY DEL CARMEN;VILLEGAS PETRO;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;35116887;54744;NAYITH;PADILLA GONZALEZ;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Admitido ..    
@@ -324,11 +324,11 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;35536946;9367;LAURA MARCELA;LUGO MORENO;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Admitido ..    
 2015;1;CC  ;36726439;770;PAOLA ANDREA;CIRO  SANTIAGO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;37938139;54490;MARTHA CECILIA;PEREZ CHAVEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
-2015;1;CC  ;38669121;;MARYI  YAZMIN;ESTUPINAN HURTADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;39099041;;ESCARLE;FONSECA MENDOZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;38669121;103783;MARYI  YAZMIN;ESTUPINAN HURTADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;39099041;103783;ESCARLE;FONSECA MENDOZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;39286326;54595;Rosana;Vergara Lopez;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;39311126;54701;SONIA;RUIZ CORTES;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
-2015;1;CC  ;40388639;;EDNA VIVIANA;DIAS MACIAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;40388639;103783;EDNA VIVIANA;DIAS MACIAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;40881166;54701;YOBELIS RAQUEL;CAUSIL BONIVENTO;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;40941872;17698;ROSA LAUDITH;ANGULO MEJIA;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
 2015;1;CC  ;40942469;103272;EILEEN YARIBEL;IGUARAN BRITO;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
@@ -357,16 +357,16 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;45496726;103272;OLGA LUCIA;MARTINEZ LUGO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;45498517;766;MILENA;SAENZ DURAN;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;45499029;103272;CLAUDIA ROSIO;VARELA PAJARO;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
-2015;1;CC  ;45500485;;ELIZABETH;CHICO BARRIOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45500485;103783;ELIZABETH;CHICO BARRIOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45502736;54744;GREDYS MARIA;MARTINEZ QUINTERO;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;45502810;54490;FLORALBA;CARAZO BATISTA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;45503704;102460;LIDIS;HOYOS AMARIS;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;45504314;10461;BALDIRIS ISABEL;BLANCO BURGOS;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
-2015;1;CC  ;45505685;;ZOMAIDA;PALOMINO GUERRERO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45505685;103783;ZOMAIDA;PALOMINO GUERRERO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45507115;103272;ALBINA MARIA;BECHARA LOPERA;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;45507506;102460;MARÍA FERNANDA;NOVA DEL GIÚDICE;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;45509873;744;YUNIS;BLANCO JIMENEZ;FILOSOFIA                                                                                           ;PRP;Admitido ..    
-2015;1;CC  ;45510078;;MARIA CLAUDIA;RUIZ MARDINI;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45510078;103783;MARIA CLAUDIA;RUIZ MARDINI;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45512674;102460;TANIA MARGARITA;SARABIA QUINTERO;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;45512790;770;ROSELY ROCIO;RHENALS RICARDO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;45513815;54701;LEYDIS YANETT;BALLESTAS IBARRA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
@@ -380,7 +380,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;45528678;103272;CLAUDIA MILENA;BLANCO VIDAL;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;45529771;766;NIDIA DEL CARMEN;MIRANDA JULIO;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;45531033;54682;GISELLE;DI FILIPPO IRIARTE;DOCTORADO EN MEDICINA TROPICAL                                                                      ;PRP;Facturado      
-2015;1;CC  ;45532023;;KATHERINE;PAJARO GUTIERREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45532023;103783;KATHERINE;PAJARO GUTIERREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45532059;15343;GEISSEL ESTHER;CARBAL PIANETA;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP;Admitido ..    
 2015;1;CC  ;45532225;766;KELLYS IRINA;BELTRAN PEREZ;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;45532394;10461;MARLY DEL CARMEN;NAVARRO CAMPUZANO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
@@ -392,10 +392,10 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;45538711;102460;PLIETTY DEL CARMEN;PINILLA POLO;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;45539660;10461;ENEDIS ROCIO;CAMPANELLA GUERRERO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;45540682;103272;NIDIA LUCIA;CANO JUEZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;45540944;;KAREN MARGARITA;MARTINEZ MARRUGO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45540944;103783;KAREN MARGARITA;MARTINEZ MARRUGO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45541541;102460;BILITIS MARIA;ALVAREZ GAVIRIA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
-2015;1;CC  ;45541991;;MICELLES DEL CARMEN;MATTOS DEJANON;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;45544681;;GLEIS MARIA;ALMANZA LLAMAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45541991;103783;MICELLES DEL CARMEN;MATTOS DEJANON;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45544681;103783;GLEIS MARIA;ALMANZA LLAMAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45545099;17698;CANDELARIA PATRICIA;CURE MANJARRES;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
 2015;1;CC  ;45545291;7816;ANGELICA MARIA;RESTREPO FRANCO;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45545420;7816;LILIANA EUGENIA;ARRIETA GARCES;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
@@ -403,49 +403,49 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;45548805;102460;INGRID ROCIO;TRONCOSO OVALLE;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;45549338;103272;MARIA CLAUDIA;SIMANCAS MAYA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;45549696;102460;NELLY DEL CARMEN;CUBIDES ACEVEDO;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
-2015;1;CC  ;45549866;;JOHANNA BEATRIZ;PUELLO MERCADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
-2015;1;CC  ;45550255;;LISETT DEL CARMEN;BORJA BOSSIO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45549866;103783;JOHANNA BEATRIZ;PUELLO MERCADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45550255;103783;LISETT DEL CARMEN;BORJA BOSSIO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45552130;736;MILAGRO MARGARITA DEL CARMEN;ORTIZ CARDONA;ENFERMERIA                                                                                          ;PRP;Admitido ..    
-2015;1;CC  ;45552547;;KIMBERLYN YESENIA;CARRILLO MERIÑO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;45552973;;KATINE DE LOS ANGELES;OLIVER BADEL;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45552547;103783;KIMBERLYN YESENIA;CARRILLO MERIÑO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45552973;103783;KATINE DE LOS ANGELES;OLIVER BADEL;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45553573;15343;LAI LANI;ARRIETA GONZALEZ;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP;Admitido ..    
-2015;1;CC  ;45553948;;KATHERINE DEL CARMEN;GOMEZ GAVIRIA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45553948;103783;KATHERINE DEL CARMEN;GOMEZ GAVIRIA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45554777;103272;KATERINE LISBET;PEREZ DAZA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;45555245;17698;MORELYS KATERINE;MORENO RAMIREZ;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Facturado      
-2015;1;CC  ;45555700;;OLGA CAROLINA;TORRES LOPEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;45555747;;KAREN MARGARITA;ZAPATA PEREA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45555700;103783;OLGA CAROLINA;TORRES LOPEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45555747;103783;KAREN MARGARITA;ZAPATA PEREA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45555757;54595;DIANIS PAOLA;MONROY QUIROZ;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Admitido ..    
 2015;1;CC  ;45556301;10461;TATIANA TERESA;CANO CUADRO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;45556347;770;YOJANA;COGOLLO OSORIO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;45557039;54701;PAULA ISABEL;LOPEZ VERGARA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;45557411;766;KATTY DEL CARMEN;MIRANDA ARROYO;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;45557741;102460;MARTHA ELENA;VASQUEZ GONZALEZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
-2015;1;CC  ;45558034;;IRINA DEL CARMEN;BALDIRIS APARICIO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45558034;103783;IRINA DEL CARMEN;BALDIRIS APARICIO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45558592;19723;LINA LUZ;LAGUNA MORANTE;CONTADURIA PUBLICA DIURNA                                                                           ;   ;Admitido ..    
 2015;1;CC  ;45558662;736;WENDY MACIEL;LOZANO GUERRERO;ENFERMERIA                                                                                          ;PRP;Admitido ..    
 2015;1;CC  ;45559926;54490;VICENTA ESTER;ARIZA GONZALEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
-2015;1;CC  ;45560475;;TATIANA MARIA;VEGA RENGIFO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45560475;103783;TATIANA MARIA;VEGA RENGIFO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45560647;3325;NINI PAOLA;FORTICH MANGONES;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Facturado      
 2015;1;CC  ;45561174;103272;GRACIELA MARIA;MOLINA SIERRA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;45562292;;SANDRA MARIA;MURPHY RODRIGUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45562292;103783;SANDRA MARIA;MURPHY RODRIGUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45564107;770;HEYDI LILIANA;RIASCOS ANGULO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;45565005;91076;ISEL MARIA;CASTRO SIERRA;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;45565043;740;YESICA ESTEFANIA;DOVALE TORRES;DERECHO                                                                                             ;PRP;Admitido ..    
 2015;1;CC  ;45565075;54490;SYLEEN;PUELLO MIRANDA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
-2015;1;CC  ;45592346;;ARALY;ARIZA SABALZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45592346;103783;ARALY;ARIZA SABALZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45593470;770;YANINA DEL SOCORRO;CARREÑO CUADRO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;45645296;102460;SONIA ELENA;ROCHA MARQUEZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;45647884;54595;PATRICIA ELENA;CARDENAS OCHOA;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45648806;54595;JAQUELINE DEL CARMEN;GONZALEZ CASTRO;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Facturado      
 2015;1;CC  ;45687942;103272;MARÍA MATILDE;BAYTER RUIZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;45688253;;DENIS DEL CARMEN;ALVAREZ SANJUAN;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45688253;103783;DENIS DEL CARMEN;ALVAREZ SANJUAN;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45688374;103272;MARGARITA MARIA;RODRIGUEZ MERA;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;45688951;54595;CECILIA ELENA;JARABA BARRIOS;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Facturado      
 2015;1;CC  ;45689050;54490;SHIRLEY ESTER;LOPEZ PEREZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;45690385;102460;KELIA ROSA;ALVAREZ LOPEZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;45690531;103272;ERIKA PATRICIA;MENDOZA DE HOYOS;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;45690782;102460;MARGARET INES;CONEO SUAREZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
-2015;1;CC  ;45692361;;DIANA PAOLA;OVIEDO RIVERA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
+2015;1;CC  ;45692361;103614;DIANA PAOLA;OVIEDO RIVERA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
 2015;1;CC  ;45692875;770;MARIA ISABEL;ESPITALETA ALVAREZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;45692936;766;SUGEYS;MEDINA CARDENAS;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;45692999;742;ELUXAY;GONZALEZ DIAZ;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
@@ -454,35 +454,36 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;45694604;3325;CATHERINE PATRICIA;LORA CARDENAS;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;45715389;54744;YULY YANETH;BERTEL BELLIDO;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP;Admitido ..    
 2015;1;CC  ;45715590;91076;IRINA PATRICIA;TIRADO BALLESTAS;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Admitido ..    
-2015;1;CC  ;45741572;;AGUEDA;RANGEL SOSA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45741572;103783;AGUEDA;RANGEL SOSA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45753839;54490;IRINA SIOMARA;CAMPAS MORENO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;45757673;736;EMILUZ@HOTMAIL.COM;GONZALEZ VERGARA;ENFERMERIA                                                                                          ;PRP;Admitido ..    
 2015;1;CC  ;45758382;10461;ADIELA;ADIELA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
 2015;1;CC  ;45760164;102460;NORFIDIA ZENITH;CARDENAS PEREZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;45760356;103272;RENETA;ZUÑIGA CARRILLO ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;45760356;103272;RENETA;ZUÑIGA CARRILLO;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
-2015;1;CC  ;45760928;;ELENA MARIA;STUMMO GUERRA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45760928;103783;ELENA MARIA;STUMMO GUERRA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45762861;3325;LIZ SHIRLEY;MARTINEZ MARTINEZ;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
-2015;1;CC  ;45763092;;SOFIA DEL ROSARIO;BARRIOS PEREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;45763092;103783;SOFIA DEL ROSARIO;BARRIOS PEREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;45765074;770;MAYRA MARGARITA;MARTINEZ MENDEZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;45765152;54744;DELIA DEL SOCORRO;MANTILLA CISNEROS;INGENIERIA DE SISTEMAS - MAGANGUE                                                                   ;PRP;Facturado      
-2015;1;CC  ;45767368;;INDIRA CENITH;JULIO CASTILLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;45767368;103783;INDIRA CENITH;JULIO CASTILLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;45767410;54595;MONICA DE LA CANDELARIA;MARTINEZ MARTELO;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;45780054;102460;ARACELYS;RODRIGUEZ PALMERA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;45781183;54744;CLARIBET CECILIA;SIERRA BARRIOS;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturado      
 2015;1;CC  ;45781429;54744;SORAYA SULEN;LEDEZMA MORENO;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturado      
+2015;1;CC  ;45940279;102460;JESSYMAR FRANCHESCA;DANEAU TOVAR;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ  ;PRP;Facturado      
 2015;1;CC  ;49754502;91076;LEONOR;CERVANTES CEBALLOS;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;49788738;102460;ROSA ANGELA;TERNERA RADA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
-2015;1;CC  ;49789400;;ANGELICA MARIA;SOLANO GOMEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;49789400;103783;ANGELICA MARIA;SOLANO GOMEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;49791731;9367;NIRLA EDITH;IBARRA PATERNOSTRO;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Facturado      
 2015;1;CC  ;50883126;766;MAIRA LUZ;BRANGO OLASCOAGA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
-2015;1;CC  ;50906063;;JOHANNY SALMY;HOYOS MASS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;50906063;103783;JOHANNY SALMY;HOYOS MASS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;50909818;7816;TATIANA BEATRIZ;JIMENEZ VARGAS;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
 2015;1;CC  ;50913391;770;PRODIGA MARIA;DE ARCO LOPEZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;50928298;54490;ALCIRIS ELENA;CASTAÑO ARROYO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
 2015;1;CC  ;50930196;7816;CATALINA;MEJIA CORREA;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Admitido ..    
 2015;1;CC  ;50955987;54701;ONELIA SUSANA;SOTO GALEANO;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
-2015;1;CC  ;50985252;;ANGELICA MARIA;MARTINEZ LOPEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;50985252;103783;ANGELICA MARIA;MARTINEZ LOPEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;50986826;54701;SAIDA SOFIA;COY FUENTES;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Admitido ..    
 2015;1;CC  ;50987480;54701;MALKA IRINA;CHARRASQUIEL MARTINEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
 2015;1;CC  ;50988575;766;JUANA ELENA;LACAYO MURILLO;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
@@ -494,7 +495,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;55245900;10461;WENDY JOHANNA;ACUÑA PEREZ;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
 2015;1;CC  ;55245981;10461;WENDY JOHANNA;ACUÑA PEREZ;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
 2015;1;CC  ;55301279;7816;KARELY DEL CARMEN;CAMPO DE AGUAS;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
-2015;1;CC  ;55308500;;KELLY PATRICIA;VERGARA VEGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;55308500;103783;KELLY PATRICIA;VERGARA VEGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;55309026;7816;STHEFANY PAOLA;MARTINEZ ANGULO;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
 2015;1;CC  ;55312103;7816;YURANYS DEL CARMEN;CAMARGO AVILA;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Admitido ..    
 2015;1;CC  ;55312614;54701;MARIA ANGELICA;GARCIA GOMEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
@@ -502,7 +503,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;63319495;91076;ISABEL CLARA;ACOSTA-COLEY;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;63555848;102148;AYLIN JOHANA;AVILA HERNANDEZ;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP;Admitido ..    
 2015;1;CC  ;64477530;54595;LEONEBYS MARIA;LEONEBYS MARIA;ADMINISTRACION FINANCIERA - MAGANGUE                                                                ;PRP;Facturado      
-2015;1;CC  ;64479980;;MARCELA MARGARITA;MENDOZA GUERRA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturar       
+2015;1;CC  ;64479980;103783;MARCELA MARGARITA;MENDOZA GUERRA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturar       
 2015;1;CC  ;64549615;103272;ALEYDA BERNARDA;CONSUEGRA SOLORZANO;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;64568813;54744;SHIRLE DEL CARMEN;ATENCIA SANES;INGENIERIA DE SISTEMAS - MAGANGUE                                                                   ;PRP;Facturado      
 2015;1;CC  ;64579806;770;DIANA MARGARITA;VILLAMIL GARCIA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
@@ -532,15 +533,15 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;72282260;54595;JOSE LUIS;PEREZ HIGUERA;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Facturado      
 2015;1;CC  ;72288197;54490;MAURICIO;HILL PASTOR;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
 2015;1;CC  ;72312000;54490;ALEJANDRO ENRIQUE;ALEJANDRO ENRIQUE;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
-2015;1;CC  ;72341429;;JOHN JAIDER;FERIA MURILLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;72341429;103783;JOHN JAIDER;FERIA MURILLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;72346928;103272;JORGE ARTURO;RIVERA TEJADA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;72347521;54701;JAIR ENRRIQUE;ALONSO MACHADO;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;CC  ;73006063;770;MARIO JESUS;JIMENEZ PEÑA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;73006488;54701;NEFTALI;MENDEZ SALAZAR;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Admitido ..    
-2015;1;CC  ;73006512;;ZAID;DIAZ VERGARA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;73006512;103614;ZAID;DIAZ VERGARA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;73006987;54454;CARLOS JULIO;CASTELLAR LAVERDE;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
 2015;1;CC  ;73008126;770;DAVID;ARRIETA LUNA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
-2015;1;CC  ;73009229;;ARGEMIRO ORLANDO;ARGEMIRO ORLANDO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;73009229;103783;ARGEMIRO ORLANDO;ARGEMIRO ORLANDO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;73009841;103272;PEDRO JOSE;SALGADO BUSTILLO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;73074075;103272;HECTOR RODOLFO;CONSUEGRA SALINAS;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;73075313;3325;OSCAR OSVALDO;BRUCE QUERUZ;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
@@ -573,7 +574,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;73140362;54701;CALIXTO;POLO MEDRANO;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;73140530;103272;WALTER;NAVARRO RANGEL;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;73141818;742;ELDER ALFONSO;ALCALA MEZA;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;73142859;;ALVARO;CUADRO RUIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;73142859;103783;ALVARO;CUADRO RUIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;73144959;102460;JUAN MANUEL;DAZA MOLINA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;73144981;54595;LEONARDO FABIO;DIAZ CANO;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;73145230;2995;JAIME;MELENDEZ ZAMBRANO;MATEMATICAS                                                                                         ;PRP;Admitido ..    
@@ -588,7 +589,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;73158652;103272;VLADIMIR;CABALLERO RANGEL;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;73161166;770;ABEL JOSE;CARO HERNANDEZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;73166624;103272;FRANCISCO;TURIZO ESPITIA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;73167702;;ANTONIO JESUS;ESCOBAR CASTELLAR;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;73167702;103783;ANTONIO JESUS;ESCOBAR CASTELLAR;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;73167760;740;YAMIL DE JESUS;YAMIL DE JESUS;DERECHO                                                                                             ;PRP;Admitido ..    
 2015;1;CC  ;73169249;7810;CESAR JOSE;ORDOÑEZ LOPEZ;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Facturado      
 2015;1;CC  ;73180869;7816;JORGE ALONSO;OROZCO MENDOZA;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
@@ -612,17 +613,17 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;73190704;3325;KELVIN ENRIQUE;AGRESOTT MARSIGLIA;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;73191096;103272;RUBÉN DARÍO;MONTENEGRO SANDON;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;73191096;103272;RUBEN DARIO;MONTENEGRO SANDON ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;73191124;;DIEGO ARMANDO;VALIENTE MARRUGO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;73191124;103783;DIEGO ARMANDO;VALIENTE MARRUGO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;73191444;54744;Pedro Antonio;Lopez Mosquera;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;73192513;766;JORGE ELIECER;BARCASNEGRAS IGLESIAS;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;73193549;;MARCO RAFAEL;YEPES DIAZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;73193549;103783;MARCO RAFAEL;YEPES DIAZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;73193846;54744;KAROL MOISES;BUSTAMANTE PEÑA;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;73194324;54701;OMAR ALBERTO;FRANCO CARCAMO;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
 2015;1;CC  ;73194988;54490;ALEXANDER;MATIZ FERNANDEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;73195459;103272;WILLIAM ENRIQUE;PEREZ ACOSTA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;73195892;54595;JOSE MARIA;JIMENEZ LARIOS;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;73195919;51577;ADOLFO ALFREDO;PAJARO PAYARES;MAESTRIA EN QUIMICA                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;73196302;;HECTOR AUGUSTO;PEREZ DE AVILA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;73196302;103783;HECTOR AUGUSTO;PEREZ DE AVILA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;73196341;91076;JUAN CARLOS;VALDELAMAR VILLEGAS;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;73197258;766;GERMAN ENRIQUE;CAICEDO PEREZ;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;73197278;7810;RONALD GABRIEL;ARGEL MENDOZA;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Admitido ..    
@@ -630,7 +631,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;73199358;770;YADER JOSE;PADILLA DONADO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;73199862;11860;LEONAR;LEONAR;ESPECIALIZACION EN CIENCIAS PENALES Y CRIMINOLOGICAS                                                ;PRP;Facturado      
 2015;1;CC  ;73200220;54744;RENZO MINEL;QUIROZ ARRIETA;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
-2015;1;CC  ;73201830;;DEIBER;MEJIA MEJIA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;73201830;103614;DEIBER;MEJIA MEJIA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;73202778;770;JHONATHAN ALBERTO;RICARDO AVILA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;73207524;51577;DAIRO ENRIQUE;MEZA MORELO;MAESTRIA EN QUIMICA                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;73207718;15343;GUSTAVO ALONSO;ROMERO MORALES;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP;Facturado      
@@ -640,10 +641,10 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;73209551;3325;OMAR ENRIQUE;BARRETO GARCIA;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Facturado      
 2015;1;CC  ;73209762;103272;MANUEL JOAQUIN;ESQUIVIA MAQUILON ;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;73210484;54595;FRANCISCO JAVIER;MONTES CASTELLI;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
-2015;1;CC  ;73213118;;CESAR AUGUSTO;ALCALA SANMARTIN;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;73213118;103783;CESAR AUGUSTO;ALCALA SANMARTIN;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;73213170;54744;TERAN ALVAREZ;JUAN CARLOS;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP;Admitido ..    
 2015;1;CC  ;73213469;2995;ALFREDO JOSÉ;VÁSQUEZ CAFRONY;MATEMATICAS                                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;73213751;;JAIRO ALBERTO;PEREZ CARRILLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;73213751;103783;JAIRO ALBERTO;PEREZ CARRILLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;73214385;103272;ANTONIO AGUSTIN;MARTINEZ OSPINO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;73215700;7810;JOSE RAMON;RUIZ BARRIOS;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Admitido ..    
 2015;1;CC  ;73216213;54490;FRANKLIN DE JESUS;VEGA ESTRADA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
@@ -669,15 +670,15 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;73559600;54744;MAYKEL NATTAN;RAMOS BOSSIO;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;73566038;54744;CESAR  HUMBERTO;TORRES SIERRA;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP;Admitido ..    
 2015;1;CC  ;73569484;53384;JHOAN HUMBERTO;PIERMATTEY DITTA;DOCTORADO EN CIENCIAS BIOMEDICAS                                                                    ;   ;Admitido ..    
-2015;1;CC  ;73570929;;RICARDO ANTONIO;CARDONA REYES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;73570929;103783;RICARDO ANTONIO;CARDONA REYES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;73571393;54490;OSCAR ENRIQUE;NARVÁEZ VILORIA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
 2015;1;CC  ;73571413;102460;AMAURY RAFAEL;MONTERO RAMIREZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;73572024;102460;WILBERTO;RAMOS VEGA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;73572151;102460;VICTOR MARCELINO;MARTELO GOMEZ ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;73572302;10461;JAVIER ENRIQUE;BALLESTAS LONG;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
-2015;1;CC  ;73575765;;NEYSER;COLON LEAL;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;73575765;103783;NEYSER;COLON LEAL;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;73579049;102460;ALEXANDER;PARGA LOZANO;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
-2015;1;CC  ;73579832;;EZEQUIEL DAVID;CORRALES AMADOR;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;73579832;103783;EZEQUIEL DAVID;CORRALES AMADOR;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;73580937;103272;JORGE RAFAEL;ESQUIVA GARCÍA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;73580937;103272;JORGE RAFAEL;ESQUIVIA GARCÍA;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;73582254;54744;RUBEN;BENEDETTI AREVALO;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
@@ -728,8 +729,8 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;92099856;54701;JOSE FERNANDO;ACOSTA DIAZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;CC  ;92186890;103272;JAMES;BENITEZ MARTINEZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;92188509;54701;JAIRO ANIBAL;MORENO ARTEAGA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
-2015;1;CC  ;92260861;;PABLO ANDRÉS;CRUZ MARTINEZ;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
-2015;1;CC  ;92450180;;VICENTE;GUTIÉRREZ RICARDO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;92260861;103614;PABLO ANDRÉS;CRUZ MARTINEZ;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
+2015;1;CC  ;92450180;103783;VICENTE;GUTIÉRREZ RICARDO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;92509342;102460;REINALDO  TULIO;BENITEZ  ALVAREZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;92522791;103272;ADOLFO ANDRES;TIRADO RODRIGUEZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;92529032;7816;FRANCISCO JOSE;TORRES TABARES;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Admitido ..    
@@ -756,7 +757,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;TI  ;1001901627;747;MOISES DAVID;AGAMEZ URZOLA;INGENIERIA CIVIL                                                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1001902910;54454;LINDA JULIANIS;RHENALS PÁJARO;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
 2015;1;TI  ;1001904699;51611;MARÍA ALEJANDRA;OLIVARES RAMÍREZ;INGENIERIA QUIMICA                                                                                  ;PRP;Admitido ..    
-2015;1;TI  ;1001937429;;ROSICELA;MENDOZA DE ARCO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;TI  ;1001937429;103783;ROSICELA;MENDOZA DE ARCO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;TI  ;1001937429;2995;ROSICELA;MENDOZA DE ARCO;MATEMATICAS                                                                                         ;PRP;Admitido ..    
 2015;1;TI  ;1001969817;3137;HECTOR RAUL;ESPAÑA VANEGAS;QUIMICA                                                                                             ;PRP;Admitido ..    
 2015;1;CC  ;1001970011;90636;SEBASTIAN DAVID;SALAS DIAZ;TECNICA PROFESIONAL EN PROCESOS METROLOGICOS                                                        ;PRP;Admitido ..    
@@ -918,7 +919,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;TI  ;1007208355;746;ANA MARIA;SALGADO LORA;LINGUISTICA Y LITERATURA                                                                            ;PRP;Admitido ..    
 2015;1;TI  ;1007210675;742;LUIS MANUEL;CARMONA CASTAÑEDA;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP;Admitido ..    
 2015;1;TI  ;1007211551;90636;INGRID YULIETH;MENDOZA MENDOZA;TECNICA PROFESIONAL EN PROCESOS METROLOGICOS                                                        ;PRP;Admitido ..    
-2015;1;CC  ;1007254746;;STEPHANIE;BUELVAS GARCIA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1007254746;103783;STEPHANIE;BUELVAS GARCIA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;TI  ;1007254998;742;LEONALDO;VILLAFAÑE IRIARTE;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP;Admitido ..    
 2015;1;CC  ;1007255629;54701;WENDY JOHANA;JULIO KOREIA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;TI  ;1007256664;744;JEFRY;RAMIREZ MONTES;FILOSOFIA                                                                                           ;PRP;Admitido ..    
@@ -966,7 +967,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1015418647;54744;DELIA SOFIA;ACOSTA FONSECA;INGENIERIA DE SISTEMAS - MOMPOX                                                                     ;PRP;Facturado      
 2015;1;CC  ;1016067664;54701;KARIME;CAMERA RIIVERA;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;CC  ;1017136879;9367;DEISY ANDREA;TAPIAS TOBÓN;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Facturado      
-2015;1;CC  ;1017142496;;ZULLY MERLIS;CORTES MEJIA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1017142496;103783;ZULLY MERLIS;CORTES MEJIA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1017223897;742;VALENTINA MARIA;ORTIZ ALDANA;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP;Admitido ..    
 2015;1;CC  ;1019008109;54744;ERIKA PATRICIA;CADENA PAVA;INGENIERIA DE SISTEMAS - MOMPOX                                                                     ;PRP;Facturar       
 2015;1;CC  ;1019022878;54701;GLORIA CECILIA;GÓMEZ ROMERO;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Facturado      
@@ -1028,7 +1029,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1044931747;90636;ELKIN RAFAEL;ROMERO VILLADIEGO;TECNICA PROFESIONAL EN PROCESOS METROLOGICOS                                                        ;PRP;Admitido ..    
 2015;1;CC  ;1044932223;54595;ANA SOFIA;ARRIETA SALAS;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Facturado      
 2015;1;CC  ;1044932471;54744;MARIA DILUBINA;CASSERES MEZA;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
-2015;1;CC  ;1045668888;;KATHERINE PAOLA;CAICEDO VIZCAINO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1045668888;103783;KATHERINE PAOLA;CAICEDO VIZCAINO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1045681820;7810;CRISTIAN JOEL;GÓMEZ HERAZO;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Admitido ..    
 2015;1;CC  ;1045686111;54744;VICTOR ELIECER;PUELLO GONZALEZ;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Facturado      
 2015;1;CC  ;1045689506;53730;SANTIAGO JUNIOR;BOLIVAR AVILA;MAESTRIA EN CIENCIAS FARMACEUTICAS                                                                  ;PRP;Admitido ..    
@@ -1045,14 +1046,14 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1047364981;102460;KELLY ALEJANDRA;YEPES LOPEZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047365097;103272;MONICA PATRICIA;PAYARES ALMANZA;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;1047365297;54490;MARELVIS AMIRA;DIAZ ARROYO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
-2015;1;CC  ;1047365433;;MAYRA PAOLA;JIMENEZ ARIAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047365433;103783;MAYRA PAOLA;JIMENEZ ARIAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047365584;770;JOHANA PATRICIA;MOSQUERA CANOLES;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1047365916;745;MIGUEL ANGEL;JULIO GONZALEZ;HISTORIA                                                                                            ;PRP;Admitido ..    
 2015;1;CC  ;1047367452;90905;KAREN ELENA;RIVERA JULIO;MAESTRIA EN BIOQUIMICA                                                                              ;PRP;Facturado      
 2015;1;CC  ;1047367946;54701;DORIS MILENA;MEJIA DE AVILA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1047368718;53384;DANEIVA DEL CARMEN;CARO FUENTES;DOCTORADO EN CIENCIAS BIOMEDICAS                                                                    ;   ;Admitido ..    
 2015;1;CC  ;1047368779;766;AVILA;VERGARA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;1047368845;;YULITZA DEL CARMEN;VALDEZ TORRES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047368845;103783;YULITZA DEL CARMEN;VALDEZ TORRES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047370263;54595;LEIDYS DEL CARMEN;RAMIREZ HADECHINE;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1047371194;766;GERALDINE;LUGO MERCADO;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1047372560;742;GABRIEL ENRIQUE;QUINTANA GOMEZ;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
@@ -1080,7 +1081,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1047387810;11860;EDWIN;MIRANDA GAVIRIA;ESPECIALIZACION EN CIENCIAS PENALES Y CRIMINOLOGICAS                                                ;PRP;Admitido ..    
 2015;1;CC  ;1047388315;3325;LEIDY;GARY GARRIDO;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1047388582;770;MARÍA ANGÉLICA;JARABA BASA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
-2015;1;CC  ;1047389388;;JAVIER ENRIQUE;CASTELLAR HERNANDEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047389388;103783;JAVIER ENRIQUE;CASTELLAR HERNANDEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047389625;10461;SINDY PAOLA;VALDES SANTANA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047389730;54595;LUZ KARINE;PEREIRA TORRES;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1047389962;102460;MIGUEL ANTONIO;MORÓN CAMPOS;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
@@ -1088,14 +1089,14 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1047390896;103272;CAROLINA PAOLA;CASTRO DEL RÍO;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;1047391196;54595;JENNIFER DEL CARMEN;HERNANDEZ POSADA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1047391335;2995;NADIZ MARIA;AYOLA RIOS;MATEMATICAS                                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;1047392071;;MARIA ANGELICA;VECCINO AMADOR;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047392071;103783;MARIA ANGELICA;VECCINO AMADOR;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047392150;10892;RAFAEL ANDRES;FUENTES MARRUGO;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   ;Admitido ..    
 2015;1;CC  ;1047392167;775;KAREN SOFÍA;ZABALETA MEZA;MAESTRIA EN MICROBIOLOGIA                                                                           ;PRP;Admitido ..    
 2015;1;CC  ;1047392625;54701;LEIDY DIANA;GARCIA AGUILAR;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
-2015;1;CC  ;1047393556;;OLGA LUCIA;PALACIOS CASSERES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047393556;103783;OLGA LUCIA;PALACIOS CASSERES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047393564;11860;LADY CAROLA;BENITEZ PESTANA;ESPECIALIZACION EN CIENCIAS PENALES Y CRIMINOLOGICAS                                                ;PRP;Admitido ..    
 2015;1;CC  ;1047393821;19256;ROBERT ALEXANDER;TORNE PADILLA;COMUNICACION SOCIAL                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;1047394218;;FLOR ÁNGELA;FLÓREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047394218;103783;FLOR ÁNGELA;FLÓREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047394651;10461;ANA MARCELA;MONTES TORREGROSA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047394914;103272;MAURICIO JOSE;ARAGON ALVAREZ ;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;1047394922;19723;EDGARDO JOSE;MULETT BABILONIA;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP;Admitido ..    
@@ -1103,35 +1104,35 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1047397023;54595;JEAN RENE;ROMERO DIAZ;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1047397382;770;SANDRA PATRICIA;TOVAR PUCHE;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1047397440;11860;ERICK;RIVERA MARTINEZ;ESPECIALIZACION EN CIENCIAS PENALES Y CRIMINOLOGICAS                                                ;PRP;Admitido ..    
-2015;1;CC  ;1047397736;;DAYANA ICELA;PATERNINA TAMARA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047397736;103783;DAYANA ICELA;PATERNINA TAMARA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047398004;53384;VELKY KATERINE;AHUMADA CONTRERAS;DOCTORADO EN CIENCIAS BIOMEDICAS                                                                    ;   ;Admitido ..    
-2015;1;CC  ;1047398975;;JIMMY JUNIOR;MALDONADO ACOSTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
-2015;1;CC  ;1047399333;;MARIA PAULA;FRIERI ROMERO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047398975;103783;JIMMY JUNIOR;MALDONADO ACOSTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047399333;103783;MARIA PAULA;FRIERI ROMERO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047400268;54701;YULEIDYS PAOLA;MANJARRES SANTOS;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1047401338;102460;ELKIN ALBERTO;MONTEMIRANDA PAJARO;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;1047401469;7816;LUZCEDY DEL CARMEN;MEJIA PADILLA;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
 2015;1;CC  ;1047402932;54744;KELVIN ALEXIS;KELVIN ALEXIS;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047403678;10892;JOHN FREDY;GIL MORENO;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   ;Admitido ..    
-2015;1;CC  ;1047404230;;MERCEDES ESTER;MARTELO HENRÍQUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047404230;103783;MERCEDES ESTER;MARTELO HENRÍQUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047404249;103272;MANUEL DAVID;ROCHA PULIDO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1047404454;54701;LISNERY CAROLINA;BARRIOS SIERRA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1047405219;19723;ALVARO MIGUEL;BALLESTAS SANCHEZ;CONTADURIA PUBLICA DIURNA                                                                           ;   ;Admitido ..    
 2015;1;CC  ;1047405356;54595;LAURA KARINA;GUTIERREZ GANEM;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
-2015;1;CC  ;1047407459;;ROSELYN;STEER CALVO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;1047407459;103614;ROSELYN;STEER CALVO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047407544;103272;LUIS DANIEL;MERCADO DIAZ ;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;1047408366;54454;DEISY PATRICIA;PEREZ SUESCUN;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
 2015;1;CC  ;1047409187;2995;CRISTIAN JOSE;CAVADIAS CARRASCAL;MATEMATICAS                                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1047409644;15343;CESAR AUGUSTO;GUARDO VERGARA;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP;Admitido ..    
-2015;1;CC  ;1047411515;;CARLOS ALBERTO;CRUZ RAMIREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047411515;103783;CARLOS ALBERTO;CRUZ RAMIREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047411623;54595;MILEIDI;BALLESTEROS ANAYA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
-2015;1;CC  ;1047411728;;CINTHYA PAOLA;CASTILLO RODELO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047411728;103783;CINTHYA PAOLA;CASTILLO RODELO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047412605;770;RONNY RICHARD;RUIZ ZABALETA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1047412607;766;DIANA CAROLINA;BARBOSA BLANDON;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;1047412995;;ELIANA MARGARITA;HERRERA BOSSIO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047412995;103783;ELIANA MARGARITA;HERRERA BOSSIO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047413586;19723;JEFERSON;ZUÑIGA ROMERO;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1047413728;54744;JULIO ALBERTO;CASSIANI PAEZ;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturado      
-2015;1;CC  ;1047413749;;JENNY EUGENIA;PUENTE ROBLES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
-2015;1;CC  ;1047413766;;KIARA PATRICIA;MOGOLLON GUERRA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047413749;103783;JENNY EUGENIA;PUENTE ROBLES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047413766;103783;KIARA PATRICIA;MOGOLLON GUERRA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047414850;54744;GUSTAVO ADOLFO;GONZALEZ ARGOTA;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047415261;103272;LISSETH JOHANNA;REYES CARRILLO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1047415739;10461;KATHERINE;VARGAS DUITAMA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
@@ -1142,32 +1143,32 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1047416167;103272;JAVITH GREGORIO;ADECHINE CARRILLO;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1047418582;54744;LEONARDO STIVIN;TERRILL PADILLA;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047418616;103272;ISAURA;PADILLA CURE;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
-2015;1;CC  ;1047419404;;GISELA STEFANY;SANCHEZ CONTRERAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047419404;103783;GISELA STEFANY;SANCHEZ CONTRERAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047419547;742;HADEL DE JESÚS;SALAZAR GÓMEZ;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1047419582;744;ANA MARCELA;SANTOYA PEREZ;FILOSOFIA                                                                                           ;PRP;Admitido ..    
 2015;1;CC  ;1047420192;17698;KELLYS JOHANA;BABILONIA FRANCO;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
 2015;1;CC  ;1047421135;770;MILTON ANTONIO;ARROYO MENDOZA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;1047421183;770;DAYANA PAULIN;ORTEGA MERCADO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
-2015;1;CC  ;1047421423;;YINA PAOLA;COGOLLO RODRIGUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047421423;103783;YINA PAOLA;COGOLLO RODRIGUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047421507;742;LUIS CARLOS;MENDOZA DEL RISCO;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;1047422318;;HOLLY CAROLINA;BALLESTAS CUETO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047422318;103783;HOLLY CAROLINA;BALLESTAS CUETO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047422879;7816;FREDY JESUS;CONTRERAS CASTILLO;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047423614;766;JORGE ISAAC;JORGE ISAAC;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;1047423641;11860;LUIS ANDRES;JIMENEZ GUTIERREZ;ESPECIALIZACION EN CIENCIAS PENALES Y CRIMINOLOGICAS                                                ;PRP;Admitido ..    
 2015;1;CC  ;1047424120;766;SARA PATRICIA;PIEDRAHITA LAVERDE;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1047424830;770;CINDY PATRICIA;JULIO MACKENZIE;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
-2015;1;CC  ;1047425240;;ADRIANA PATRICIA;MALAMBO RAMOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047425240;103783;ADRIANA PATRICIA;MALAMBO RAMOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047425509;102460;EMEL HERNANDO;PUERTA SILVA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047426254;3325;LAURA DIAZ;DIAZ GRISOLLE;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1047426254;10461;LAURA DIAZ;DIAZ GRISOLLE;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
 2015;1;CC  ;1047426566;54744;SANTANDER;SILGADO GONZALEZ;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
-2015;1;CC  ;1047426610;;RAMON JUNIOR;ANDRADE LUGO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;1047426610;103614;RAMON JUNIOR;ANDRADE LUGO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047427132;54595;DAYANA PAOLA;JACOME JIMENEZ;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1047427415;90905;LEYDI LUZ;MENDOZA PARDO;MAESTRIA EN BIOQUIMICA                                                                              ;PRP;Facturado      
-2015;1;CC  ;1047427572;;LUZ ANGÉLICA;ESCORCIA ASTUDILLO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;1047427572;103614;LUZ ANGÉLICA;ESCORCIA ASTUDILLO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047427736;20828;ALEJANDRO;GARCÍA GARCÍA;INGENIERIA DE SISTEMAS                                                                              ;PRP;Admitido ..    
-2015;1;CC  ;1047427768;;GISEEL CRISTINA;TORRES CASTILLA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
-2015;1;CC  ;1047427940;;LAURA PATRICIA;BLANQUICETT CORPAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047427768;103783;GISEEL CRISTINA;TORRES CASTILLA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047427940;103783;LAURA PATRICIA;BLANQUICETT CORPAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047428347;738;CRISTIAN;FLOREZ DE LA ROSA;ODONTOLOGIA                                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1047428507;53730;YULY;BUELVAS VERTEL;MAESTRIA EN CIENCIAS FARMACEUTICAS                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047428570;54744;JOSE LUIS;RODRIGUEZ JIMENEZ;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
@@ -1178,7 +1179,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1047431476;54454;SOLENI;BAYUELO CARABALLO;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
 2015;1;CC  ;1047432428;3137;NELSON;CHIQUILLO CORREA;QUIMICA                                                                                             ;PRP;Admitido ..    
 2015;1;CC  ;1047433210;54701;MARILIS DEL CARMEN;RODRIGUEZ BALLESTAS;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
-2015;1;CC  ;1047433579;;YINNIA MARCELA;TATIS BAUTISTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047433579;103783;YINNIA MARCELA;TATIS BAUTISTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047434134;742;HEINER JOEL;TOUS QUINTERO;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1047434386;19723;YEIMY DEL CARMEN;BRÚ GÓMEZ;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1047434423;54701;NANCY MARCELA;DÍAZ ESCORCIA;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
@@ -1198,7 +1199,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1047441516;766;YANINA;DE ARCO SAYAS;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;1047441821;766;LUIS MIGUEL;VASQUEZ DE LA ESPRIELLA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1047442081;103272;DULFAY DEL CRISTO;MONSALVE MUÑOZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;1047442200;;VICTORIA;FRIAS MONTALVO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1047442200;103783;VICTORIA;FRIAS MONTALVO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1047443415;745;LUIS ALBERTO;TRIVIÑO OROZCO;HISTORIA                                                                                            ;PRP;Admitido ..    
 2015;1;CC  ;1047443525;741;ESTEFANIA;SUAREZ VILLARREAL;ECONOMIA                                                                                            ;PRP;Admitido ..    
 2015;1;CC  ;1047444712;54595;YESID DAVID;OSORIO ARIAS;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
@@ -1263,7 +1264,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1047475866;20828;LUIS MIGUEL;GUERRA GAMERO;INGENIERIA DE SISTEMAS                                                                              ;PRP;Admitido ..    
 2015;1;CC  ;1047476024;54454;JHON JAIRO;GOMEZ PEREZ;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
 2015;1;CC  ;1047476618;54744;GINA MARCEL;VILLADIEGO COAVAS;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
-2015;1;CC  ;1047476642;;BERLIDES MARIA;QUINTANA CASTELLON;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1047476642;103783;BERLIDES MARIA;QUINTANA CASTELLON;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1047476808;2995;RICHARD;SIERRA GARCIA;MATEMATICAS                                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1047476902;54744;Carlos David;Negrete Manjarrez;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1047477584;54744;JUAN DAVID;HERRERA BAYONA;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
@@ -1361,7 +1362,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1049565789;740;ANGELICA MARIA;GAVIRIA ROMERO;DERECHO                                                                                             ;PRP;Admitido ..    
 2015;1;CC  ;1049825374;54744;YIRA SANEY;RUIDIAZ  BLOOM;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;TI  ;1049826534;2914;ANGIE;BLANCO RODRIGUEZ;ADMINISTRACION INDUSTRIAL                                                                           ;PRP;Admitido ..    
-2015;1;CC  ;1049826545;;CINDY MELISA;MENDOZA SIERRA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1049826545;103783;CINDY MELISA;MENDOZA SIERRA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1049937046;54490;KEINER;ESERNA JULIO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;1049940605;3137;BELIZA;PARRA BLANCO;QUIMICA                                                                                             ;PRP;Admitido ..    
 2015;1;CC  ;1049942475;54595;RAFAEL ANTONIO;ACEVEDO DIAZ;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Admitido ..    
@@ -1369,7 +1370,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1050034539;54490;JARO LUIS;JARO LUIS;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP;Facturado      
 2015;1;CC  ;1050035412;770;SILVANA PATRICIA;SCHLEGEL GARCIA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1050035638;766;ESTIFEN JOHAM;DE AVILA PACHECO;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;1050036825;;YESSICA PAOLA;ARRIETA VEGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1050036825;103783;YESSICA PAOLA;ARRIETA VEGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1050036993;54744;CINDY PAOLA;TAPIA POLO;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturado      
 2015;1;CC  ;1050037965;742;WENDY JOHANNA;MEJIA SIERRA;ADMINISTRACION DE EMPRESAS DIURNA                                                                   ;PRP;Admitido ..    
 2015;1;CC  ;1050038884;90514;JOSE LUIS;MARTINEZ CASTELLAR;BIOLOGIA                                                                                            ;PRP;Admitido ..    
@@ -1388,7 +1389,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1050923020;741;JHAN CARLOS;LEGUIZAMO MORENO;ECONOMIA                                                                                            ;PRP;Admitido ..    
 2015;1;CC  ;1050945776;54701;YOSELIN;ARNEDO CASTILLA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1050947405;766;LABIB DE JESUS;PALIS MUNERA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
-2015;1;CC  ;1050947552;;MARIA BERNARDA;MARSIGLIA PUELLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1050947552;103783;MARIA BERNARDA;MARSIGLIA PUELLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1050950638;102460;CINDY MARGARITA;MARTÍNEZ MARTÍNEZ;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1050950801;770;GINA PAOLA;CASTRO GONZALEZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;1050951169;54701;MELISSA SOFIA;GUERRERO VERGARA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
@@ -1400,9 +1401,9 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1050956445;10892;JORGE ELIECER;MORALES SIMANCA;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   ;Admitido ..    
 2015;1;CC  ;1050956462;748;MARLON JOSE;MEJIA GONZALEZ;QUIMICA FARMACEUTICA                                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1050956494;761;BEATRIZ ELENA;PAJARO ARNEDO;ESPECIALIZACION EN ESTOMATOLOGIA Y CIRUGIA ORAL                                                     ;PRP;Admitido ..    
-2015;1;CC  ;1050956496;;VERONICA;JIMENEZ MENDOZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1050956496;103783;VERONICA;JIMENEZ MENDOZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1050956496;10461;VERONICA;JIMENEZ MENDOZA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Facturado      
-2015;1;CC  ;1050957050;;MARIA BERNARDA;MESTRE ZARATE;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1050957050;103783;MARIA BERNARDA;MESTRE ZARATE;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1050958216;54595;KAREN YOLANY;RAMIREZ PEREZ;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1050959834;744;LUIS ALBERTO;ATENCIA PEREZ;FILOSOFIA                                                                                           ;PRP;Admitido ..    
 2015;1;CC  ;1050959892;739;ALBA LUCIA;RAMOS GOMEZ;TRABAJO SOCIAL                                                                                      ;PRP;Admitido ..    
@@ -1486,12 +1487,12 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1051817744;54595;YULISA PATRICIA;MORENO ANDRADE;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Facturado      
 2015;1;CC  ;1051818481;54744;CARMONA CARMONA;YENIS MARIA;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Admitido ..    
 2015;1;CC  ;1051818919;54744;KATERIN DEL CARMEN;KATERIN DEL CARMEN;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturado      
-2015;1;CC  ;1051819044;;MELISSA ALEJANDRA;BUSTILLO BARRIOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1051819044;103783;MELISSA ALEJANDRA;BUSTILLO BARRIOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1051819332;54744;GREY DEL CARMEN;ORTEGA MELENDREZ;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP;Facturado      
 2015;1;CC  ;1051819379;54744;JOHNATAN RAFAEL;SERRANO AMADOR;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Admitido ..    
 2015;1;CC  ;1051819598;54744;DIANA PAOLA;YEPES BUELVAS;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturado      
 2015;1;CC  ;1051819635;54744;ELIANA;HERRERA BUELVAS;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Admitido ..    
-2015;1;CC  ;1051819746;;YESERLI;MERCADO MERCADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1051819746;103783;YESERLI;MERCADO MERCADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1051819787;54744;IAN CARLOS;IAN CARLOS;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturar       
 2015;1;CC  ;1051820056;54744;EVELIN JESMIT;CARMONA MANJARREZ;INGENIERIA DE SISTEMAS - SAN JUAN NEPOMUCENO                                                        ;PRP;Facturado      
 2015;1;CC  ;1051820250;54595;DANIEL ENRIQUE;DANIEL ENRIQUE;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Facturado      
@@ -1565,7 +1566,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1052067693;54595;LIBIS MARIA;MARQUEZ TOVAR;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1052067790;766;JERSSON JAFET;MARTELO DIAZ;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;1052069124;54701;JULIO CESAR;DONADO VALLE;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
-2015;1;CC  ;1052069730;;NESTOR FREDIS;LEGUIA HERNANDEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1052069730;103783;NESTOR FREDIS;LEGUIA HERNANDEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1052071642;54595;MARY LUZ;VILLAREAL VARGAS;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1052073222;54595;YEIMER ENRIQUE;ACEVEDO ACOSTA;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1052073226;54595;YUDI ASTRID;GOMEZ DUQUE;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
@@ -1574,7 +1575,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1052077694;766;MARIA ANDREA;ROMERO ORTEGA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1052079557;54744;LUIS EDUARDO;GHAMORRO MONTES;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP;Admitido ..    
 2015;1;CC  ;1052079564;54595;MAIRA ALEJANDRA;LEGUIA HERNANDEZ;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
-2015;1;CC  ;1052079697;;HERNAN JOSE;LAMADRID ARIZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1052079697;103783;HERNAN JOSE;LAMADRID ARIZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1052080449;10892;XAVIER DAVID;ARIZA CHAMORRO;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   ;Admitido ..    
 2015;1;CC  ;1052080620;54595;LUIS ANTONIO;PIMIENTA RIVERA;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1052081541;54744;OSNERIS ANDRES;PALACIO TRUJILLO;INGENIERIA DE SISTEMAS - CARMEN DE BOLIVAR                                                          ;PRP;Admitido ..    
@@ -1754,7 +1755,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1063138141;54701;ARTURO ANDRES;GUZMAN BABILONIA;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1063140085;54701;CARMEN EMILSE;PALMA ORTIZ;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Facturado      
 2015;1;CC  ;1063142957;54701;DIANA PAOLA;MONTERROZA LOPEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
-2015;1;CC  ;1063144777;;JENNY JOHANA;RODRIGUEZ URZOLA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1063144777;103783;JENNY JOHANA;RODRIGUEZ URZOLA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1063147330;54744;LEONARDO ALFONSO;HERNANDEZ CUETO;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;1063148125;54490;VERONICA DEL CARMEN;PALMA ORTIZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - LORICA                                         ;PRP;Facturar       
 2015;1;CC  ;1063148663;54595;DUBEYS;PEREZ CASTRO;ADMINISTRACION FINANCIERA - LORICA                                                                  ;PRP;Admitido ..    
@@ -1795,6 +1796,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1063725660;54595;JOSE JAVIER;DORIA ARTEAGA;ADMINISTRACION FINANCIERA - LORICA                                                                  ;PRP;Facturado      
 2015;1;CC  ;1063726160;54744;DARUIN DANIEL;CAMARGO CASTRO;INGENIERIA DE SISTEMAS - LORICA                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;1063726435;54701;JEAN CARLOS;BARRIOS RUIZ;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1064006211;54490;YERAINIS DEL PILAR;SOTO DORIA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
 2015;1;TI  ;1064187161;737;DAVID ANDRES;MONTES PORTO;MEDICINA                                                                                            ;PRP;Admitido ..    
 2015;1;CC  ;1064316444;54744;DANIEL DE JESUS;FLOREZ SALGADO;INGENIERIA DE SISTEMAS - LORICA                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;1064978117;54595;JUAN GUILLERMO;VILORIA CRUZ;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Admitido ..    
@@ -1888,9 +1890,9 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1065378034;54701;MIGUEL ANGEL;BRANGO MONTIEL;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1065378355;54744;EULISES JAVIER;SUAREZ TABORDA;INGENIERIA DE SISTEMAS - LORICA                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;1065378423;54701;RAMON ELIAS;VEGA CALDERIN;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
-2015;1;CC  ;1065583813;;MARTHA ISABEL;MONTES OCHOA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1065583813;103783;MARTHA ISABEL;MONTES OCHOA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1065598568;54490;JHENNYRETH;MENESES MARQUEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
-2015;1;CC  ;1065598768;;MAYLEN POULETTE;DIAZ OLMOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1065598768;103783;MAYLEN POULETTE;DIAZ OLMOS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1065598963;102460;STEFANI YULEIS;JIMENEZ MORA;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1065624315;7816;ALEJANDRA;GALEZO ZAYAS;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1065626880;17698;MIGUEL ANGEL;ACOSTA MEJIA;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
@@ -1901,7 +1903,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1066525254;54701;ALEXANDER;LOPEZ PAYARES;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1066570213;3325;YORLITH ESTHER;RICARDO ACOSTA;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1066721320;54595;TEYVIN ORIOL;CUELLO GERMAN;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Facturado      
-2015;1;CC  ;1066726715;;LUCIA MARGARITA;LUCIA MARGARITA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1066726715;103783;LUCIA MARGARITA;LUCIA MARGARITA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1066737669;54595;JOSE VICTOR;CAUCIL SANTIS;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1066741765;748;CARLOS ARTURO;POLO NAVARRO;QUIMICA FARMACEUTICA                                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1066748381;4208;JESSICA MARIA;LOPEZ  PEREZ;INGENIERIA DE ALIMENTOS                                                                             ;PRP;Admitido ..    
@@ -1925,14 +1927,14 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1067877570;54490;GARRIDO;BOLEMO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
 2015;1;CC  ;1067878430;54744;KAREN CECILIA;MARTINEZ PEREZ;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Facturado      
 2015;1;CC  ;1067880919;54490;ADRIANA;CASTAÑO ESCOBAR;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
-2015;1;CC  ;1067880982;;ELIANA LINETH;HERNANDEZ PAYARES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1067880982;103783;ELIANA LINETH;HERNANDEZ PAYARES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1067881567;54744;ELVIS MIGUEL;CARRASCAL VILLADIEGO;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Facturado      
 2015;1;CC  ;1067883081;54701;JOSE JAVIER;CARDENAS RICARDO;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
 2015;1;CC  ;1067886653;54744;JORGE ELIECER;CONTRERAS PADILLA;INGENIERIA DE SISTEMAS - LORICA                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;1067889686;770;CARINA;CAUSIL CASTRO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;1067894864;9367;LIZETH JOHANNA;YANES MIRANDA;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Admitido ..    
 2015;1;CC  ;1067897855;17698;HARRY ETHIEL;BEJARANO ARROYO;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Facturado      
-2015;1;CC  ;1067898351;;MARIA FERNANDA;BERROCAL BRAVO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1067898351;103783;MARIA FERNANDA;BERROCAL BRAVO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1067898651;761;DINA ESTELA;OLIVELLA GARCIA;ESPECIALIZACION EN ESTOMATOLOGIA Y CIRUGIA ORAL                                                     ;PRP;Facturado      
 2015;1;CC  ;1067901141;54490;LINDA LORENA;MENDEZ MORELO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Admitido ..    
 2015;1;CC  ;1067903160;770;CAROL ESTEFANY;ACOSTA PIÑEREZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
@@ -1941,7 +1943,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1067912571;54744;JULIO AMADOR;CAUSIL PAEZ;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;1067913528;54701;GEISY MILETH;ACOSTA TORDECILLA;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
 2015;1;CC  ;1067913582;54701;JEISY MILETH;ACOSTA TORDECILLA;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
-2015;1;CC  ;1067918515;;SANTIAGO JOSÉ;SOLANO GOMEZ;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;1067918515;103614;SANTIAGO JOSÉ;SOLANO GOMEZ;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;1067923537;54490;LEONARDO JOSE;CUELLO MAUSSA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
 2015;1;CC  ;1067924426;54490;OVER ANDRES;GONZALEZ PADILLA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
 2015;1;CC  ;1067924770;54490;NOHEMITT MARIA;PASCASIO PASTRANA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CERETÉ                                         ;PRP;Facturado      
@@ -1967,7 +1969,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1068669433;54595;JESUS MIGUEL;ROQUEME SIERRA;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1068669443;54595;JESUS MIGUEL;ROQUEME SIERRA;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Facturado      
 2015;1;CC  ;1069466719;15343;LUZMAYRA;CORDERO ARROYO;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP;Admitido ..    
-2015;1;CC  ;1069475558;;HEIDY KARINA;VELLOJIN BULA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1069475558;103783;HEIDY KARINA;VELLOJIN BULA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1069483457;54595;CARLOS ANDRES;OYOLA BORJA;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP;Admitido ..    
 2015;1;CC  ;1069485614;10892;JAIDER JOSE;MARTINEZ LAVALLE;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   ;Admitido ..    
 2015;1;CC  ;1069489975;54701;HECTOR FABIAN;BARON RUIZ;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
@@ -2020,7 +2022,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1079991606;54744;DAVID ERNESTO;FUENTES LEON;INGENIERIA DE SISTEMAS - MOMPOX                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;1080011338;53384;JENNY PAOLA;CASTRO GUERRERO;DOCTORADO EN CIENCIAS BIOMEDICAS                                                                    ;   ;Admitido ..    
 2015;1;CC  ;1081026121;9367;JOSE ANTONIO;LLANOS TORRES;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Admitido ..    
-2015;1;CC  ;1081904672;;HEIDYS ROSA;ANGULO MEDINA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1081904672;103783;HEIDYS ROSA;ANGULO MEDINA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1082156135;736;LUCY AMANDA;GONZALEZ SUAREZ;ENFERMERIA                                                                                          ;PRP;Admitido ..    
 2015;1;CC  ;1082475027;54701;LULLY VANESSA;JIMENEZ TORRES;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1082476726;54701;DANIELA;JIMENEZ CORRALES;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Admitido ..    
@@ -2036,8 +2038,8 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1082842643;7816;KAREN LORENA;COLON CANTILLO;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
 2015;1;CC  ;1082846512;54744;CARLOS ALBERTO;VIVANQUEZ JARAMILLO;INGENIERIA DE SISTEMAS - CERETÉ                                                                     ;PRP;Admitido ..    
 2015;1;CC  ;1082849781;7816;MARLY TATIANA;ESCOBAR SALCEDO;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
-2015;1;CC  ;1082877270;;ERIKA PATRICIA;AVENDAÑO OSPINO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;1082877273;;ERIKA PATRICIA;AVENDAÑO OSPINO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1082877270;103783;ERIKA PATRICIA;AVENDAÑO OSPINO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1082877273;103783;ERIKA PATRICIA;AVENDAÑO OSPINO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1082881592;15343;NUÑEZ ORTIZ;EGNA CAROLINA;ESPECIALIZACION EN ODONTOPEDIATRIA Y ORTOPEDIA MAXILAR                                              ;PRP;Admitido ..    
 2015;1;CC  ;1082898682;7816;LINAMARY;PEREA TURIZO;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
 2015;1;CC  ;1082904299;3325;CEIDY CAROLINA;RUBIO MEJIA;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
@@ -2081,7 +2083,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1101445859;54744;EDGARDO ANTONIO;EDGARDO ANTONIO;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1101454640;90514;CARMEN YINETH;JULIO DE ARCOS;BIOLOGIA                                                                                            ;PRP;Admitido ..    
 2015;1;CC  ;1101457718;740;EMIL ALFONSO;MARTINEZ GARCIA;DERECHO                                                                                             ;PRP;Admitido ..    
-2015;1;CC  ;1101814534;;ROSARIO TERESA;MENDOZA VASQUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1101814534;103783;ROSARIO TERESA;MENDOZA VASQUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1101817107;54595;ERICK ELIAS;LUBO GUZMAN;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Facturar       
 2015;1;CC  ;1102577066;54701;ALEAN ACUÑA;YAIRA ESTHER;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;CC  ;1102579764;54454;Adriana Lucia;Ricardo Lastre;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
@@ -2089,7 +2091,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1102581540;54490;FRANKLY;CAMARGO RIVERA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
 2015;1;CC  ;1102581554;54490;FRANKLIN;CAMARGO RIVERA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
 2015;1;CC  ;1102783674;7810;ROGER EDUARDO;BALDOVINO DIAZ;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Admitido ..    
-2015;1;CC  ;1102795065;;VIRGINIA ISABEL;RIVERO TAMARA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
+2015;1;CC  ;1102795065;103614;VIRGINIA ISABEL;RIVERO TAMARA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
 2015;1;CC  ;1102801569;10461;LAUREN EUGENIA;SIERRA TAMARA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;1102807669;17698;JOSÉ ALBERTO;CHAMORRO OCAMPO;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
 2015;1;CC  ;1102808852;102460;YINA PAOLA;TAMARA REYES;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Admitido ..    
@@ -2106,7 +2108,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1102824701;54595;FRANK DARIO;REQUENA MORALES;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP;Admitido ..    
 2015;1;CC  ;1102825239;103272;LAURA MARCELA;PEREIRA GONZALEZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1102825317;17698;LEONARDO ANTONIO;SIERRA TAPIAS;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
-2015;1;CC  ;1102825581;;SILVANA LUCIA;SIERRA ARROYO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1102825581;103783;SILVANA LUCIA;SIERRA ARROYO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1102831357;54682;ZAFIRO;BARRAZA;DOCTORADO EN MEDICINA TROPICAL                                                                      ;PRP;Facturado      
 2015;1;CC  ;1102836749;7810;ROGER EDUARDO;BALDOVINO DIAZ;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Facturado      
 2015;1;CC  ;1102840537;3325;LAURA MILENA;NAVARRO LIDUEÑA;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
@@ -2118,7 +2120,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1103094097;91076;YINA MARGARITA;MONTERO PÉREZ;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1103095818;103272;YIRUGENIA BEATRIZ;RUEDA ASSIA ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1103096375;51577;NADIA ISABEL;CORONADO POSADA;MAESTRIA EN QUIMICA                                                                                 ;PRP;Facturado      
-2015;1;CC  ;1103096379;;CLARA ELENA;GONZALEZ ORTEGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1103096379;103783;CLARA ELENA;GONZALEZ ORTEGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1103096847;54701;DILIA TERESA;ZAFRA CASTILLO;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;CC  ;1103101232;737;OMAR ENRIQUE;NAIZZIR OLAVE;MEDICINA                                                                                            ;PRP;Admitido ..    
 2015;1;CC  ;1103216467;746;MARIA MARCELA;SILVA BATISTA;LINGUISTICA Y LITERATURA                                                                            ;PRP;Admitido ..    
@@ -2128,7 +2130,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1104382020;2995;SADMIR JOSE;MENCO UTRIA;MATEMATICAS                                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1104405444;54701;MARIA DEL CARMEN;MUSLACO RIBON;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1104409060;91076;ALVAREZ ORTEGA;NEDA MARIA;DOCTORADO EN TOXICOLOGIA AMBIENTAL                                                                  ;PRP;Facturado      
-2015;1;CC  ;1104411523;;YULY DEISY;LAZARO NARANJO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1104411523;103783;YULY DEISY;LAZARO NARANJO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1104411725;54595;YESSID NAZHID;FERIS SANCHEZ;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP;Admitido ..    
 2015;1;CC  ;1104416593;54595;JONATAN DE JESUS;RIVERA GARAVITO;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP;Facturado      
 2015;1;CC  ;1104417297;54595;LUIS ARTURO;RODRIGUEZ MIRANDA;ADMINISTRACION FINANCIERA - SAN MARCOS                                                              ;PRP;Admitido ..    
@@ -2172,11 +2174,11 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1127594928;54744;ALDWIM KENZIE MELONE;BARCENAS DE LA ESPRIELLA;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1128044057;54595;MAIRA ELIANA;MEDINA HOYOS;ADMINISTRACION FINANCIERA - CARMEN DE BOLIVAR                                                       ;PRP;Facturado      
 2015;1;CC  ;1128044363;3325;ARINDA MARIA;GARCIA CANTILLO;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
-2015;1;CC  ;1128044638;;SANDY CAROLINA;JULIO MANGONES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;1128045393;;HEIDY;VELEZ ORTIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1128044638;103783;SANDY CAROLINA;JULIO MANGONES;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1128045393;103783;HEIDY;VELEZ ORTIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1128046097;54701;LENIS;JIMENEZ HERNANDEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - MOMPOX                                                       ;PRP;Facturado      
 2015;1;CC  ;1128046134;770;LEYNIS LISET;TORRES ARROYO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
-2015;1;CC  ;1128046389;;SILVANA;ORTIZ ACOSTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1128046389;103783;SILVANA;ORTIZ ACOSTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1128046570;766;KRISLY JOHAN;LIAN HERNANDEZ;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1128046635;103272;GRACE CAROLINA;MARTINEZ HERNANDEZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1128046714;10461;MARILY;VARGAS MARTINEZ;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
@@ -2187,7 +2189,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1128047766;17698;WILSON JAVIER;WILSON JAVIER;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Facturado      
 2015;1;CC  ;1128047809;54595;CRISTOBAL MANUEL;CRISTOBAL MANUEL;ADMINISTRACION FINANCIERA - MAGANGUE                                                                ;PRP;Facturado      
 2015;1;CC  ;1128048388;54701;JESSICA ISABEL;NIEVES VELANDIA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
-2015;1;CC  ;1128048793;;JENNIFER;CAVADIA MARTINEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1128048793;103783;JENNIFER;CAVADIA MARTINEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1128048835;770;KAREN;DE LA OSSA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;1128048889;90905;LINA YURANY;LAMBIS ANAYA;MAESTRIA EN BIOQUIMICA                                                                              ;PRP;Admitido ..    
 2015;1;CC  ;1128048911;9367;ADRIANA MARGARITA;ADRIANA MARGARITA;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Admitido ..    
@@ -2206,7 +2208,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1128055217;7810;EDELBERTO ENRIQUE;REYES TORREGROZA;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Facturado      
 2015;1;CC  ;1128055654;770;MARIA CAROLINA;CORTEZ CANTERO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1128056633;742;LUIS DANIEL;BOLIVAR RIVERA;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;1128058048;;DIANA;ORTIZ ACOSTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1128058048;103783;DIANA;ORTIZ ACOSTA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1128058282;770;LIRIS MARGARITA;DIAZ NUÑEZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1128058722;54454;SOLANGELA;RONDON CAMPO;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
 2015;1;CC  ;1128058750;54701;JENIFER;RAMOS VEGA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
@@ -2218,7 +2220,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1128060144;3325;ALEXANDRA PAOLA;BELLO MUÑOZ;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Facturado      
 2015;1;CC  ;1128060279;766;JORGE ARMANDO;VANEGAS ARELLANO;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1128060457;103272;ENRIQUE JESÚS;GECHEN HERNÁNDEZ;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;1128061569;;EULEYDY MIRLEEYS;ZAMORA CUDRIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1128061569;103783;EULEYDY MIRLEEYS;ZAMORA CUDRIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1128061671;2914;BAYRON DE JESUS;RIOS BLANCO;ADMINISTRACION INDUSTRIAL                                                                           ;PRP;Admitido ..    
 2015;1;CC  ;1128061936;54595;MAYRA ALEJANDRA;SAGRAS FLOREZ;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1128063938;766;MARTHA LILIANA;ALMANZA ARRIETA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
@@ -2228,7 +2230,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1129514969;9367;LEONARDO DANIEL;PADILLA CORREALES;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Admitido ..    
 2015;1;CC  ;1129522794;54595;BLANCA VANESSA;OGAZA MORALES;ADMINISTRACION FINANCIERA - CERETÉ                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1129523585;54701;MILENA MARIA;GONZÁLEZ HOYOS;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
-2015;1;CC  ;1129527479;;SIERRA;ESPOLANIA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1129527479;103783;SIERRA;ESPOLANIA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1129574172;766;DIANA ELIZABETH;QUIÑONES PARRA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Facturado      
 2015;1;CC  ;1133809204;54701;KATTY JAZMIN;RICO NEGRETTE;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1137179046;54490;LEANDRA  PATRICIA;ESPITIA PAYARES;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Facturado      
@@ -2249,21 +2251,21 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;TI  ;1142940795;3137;PAULA ANDREA;SOTO CANCHILA;QUIMICA                                                                                             ;PRP;Admitido ..    
 2015;1;CC  ;1143123329;54701;ELIANA MILENA;LOPEZ CAMPO;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;CC  ;1143153160;54701;MARIA FERNANDA;MARCELES GARCIA;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
-2015;1;CC  ;1143225710;;WILFRIDO ANTONIO;WILFRIDO ANTONIO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;1143225710;103614;WILFRIDO ANTONIO;WILFRIDO ANTONIO;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;1143240170;54744;NIDIA ESTHER;RODRÍGUEZ ACOSTA;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1143325423;103272;GREACE CAROLINA;LALINDE CASTELL;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;1143325458;103272;KEY SANDY;CARO MEJÍA;MAESTRIA EN DERECHO                                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;1143325472;;EMI MAURICIO;SEQUEA HERNANDEZ;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;1143325472;103614;EMI MAURICIO;SEQUEA HERNANDEZ;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;1143325501;742;JENNIFER STEFANY;OROZCO ORTIZ;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1143325527;3325;GETSY LIANETY;PEREZ ELLIS;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Facturado      
 2015;1;CC  ;1143325527;54701;GETSY LIANETY;PEREZ ELLIS;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
 2015;1;CC  ;1143325884;54682;MEISSER VIDAL;MADERA ANAYA;DOCTORADO EN MEDICINA TROPICAL                                                                      ;PRP;Facturado      
 2015;1;CC  ;1143326160;742;MIGUEL ANGEL;HOYOS MADERA;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;1143329057;;LEIDY PAOLA;BLANCO ZARZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1143329057;103783;LEIDY PAOLA;BLANCO ZARZA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143330562;103272;ELKIN ANDRES;PEÑA WILCHES;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;1143331045;54701;RONALD;GARIY BALLESTAS;ADMINISTRACION DE EMPRESAS DISTANCIA - CERETÉ                                                       ;PRP;Facturado      
 2015;1;CC  ;1143332010;91358;CESAR ALBERTO;SERNA RAPELLO;DOCTORADO EN CIENCIAS                                                                               ;   ;Facturado      
-2015;1;CC  ;1143332307;;CINDY MARGARITA;BATISTA ZUÑIGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1143332307;103783;CINDY MARGARITA;BATISTA ZUÑIGA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143332750;770;KELLY PAOLA;BOSSA DONADO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1143333164;742;DANIELA FERNANDEZ;DANIELA FERNANDEZ;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1143333181;10461;ZURY DEL CARMEN;ANAYA LENTINO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
@@ -2296,33 +2298,33 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1143342130;7810;DAVID ENRIQUE;RAMIREZ BREWER;ESPECIALIZACION EN MATEMATICA AVANZADA                                                              ;   ;Admitido ..    
 2015;1;CC  ;1143342475;54701;ROCIO MARIA;CABALLERO MEJIA;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1143342577;770;DEINER DAVID;ESPINOSA ALVARADO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
-2015;1;CC  ;1143342709;;RODGER ELIECER;CARMONA GONZALEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1143342709;103783;RODGER ELIECER;CARMONA GONZALEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143342905;54490;LUIS MIGUEL;LOPEZ MENDEZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;1143343872;7816;BETSY;MARINEZ ZURIQUE;ESPECIALIZACION EN ORTODONCIA                                                                       ;PRP;Facturado      
 2015;1;CC  ;1143343886;17698;BLADIMIR;BLANCO ALCAZAR;ESPECIALIZACION EN INGENIERIA DE VIAS TERRESTRES                                                    ;   ;Admitido ..    
-2015;1;CC  ;1143344253;;ESTHER ANGELICA;MARTINEZ MEDRANO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1143344253;103783;ESTHER ANGELICA;MARTINEZ MEDRANO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143344359;770;ALVARO JOSE;BURGOS ESPITIA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;1143344400;770;ALMA MARGARITA;PINEDA CASTILLO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1143344447;770;CARLOS GABRIEL;VARGAS ARRIETA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1143345227;54595;CAMILO;PALOMINO PERALTA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1143345755;54595;NATALIA LUCIA;SERRANO CORREA;ADMINISTRACION FINANCIERA - LORICA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1143345912;19723;GASTON ENRIQUE;GASTON ENRIQUE;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;1143346065;;LILIBETH;ROJAS GARCÉS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143346065;103783;LILIBETH;ROJAS GARCÉS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1143346141;3325;DANNY DANIELA;SOTOMAYOR RODRÍGUEZ;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1143346724;770;JURANY;CARDENAS GARCÍA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
-2015;1;CC  ;1143346762;;GISELLA;ZAPATEIRO PEREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143346762;103783;GISELLA;ZAPATEIRO PEREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1143348287;770;DANIS KATERINE;POLO SUSA;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
-2015;1;CC  ;1143348567;;CAMILO;QUINTANA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
+2015;1;CC  ;1143348567;103614;CAMILO;QUINTANA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Admitido ..    
 2015;1;CC  ;1143349274;770;ELIANA CAROLINA;NUÑEZ NIETO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;1143349318;742;MARLON DAVID;GORDON HERRERA;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1143349423;770;ADRIANA SMITH;RAMOS WILCHES;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
-2015;1;CC  ;1143349462;;LILIANA PAOLA;CASTILLO LORA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
+2015;1;CC  ;1143349462;103614;LILIANA PAOLA;CASTILLO LORA;ESPECIALIZACION EN INGENIERIA DE AGUA POTABLE Y SANEAMIENTO BASICO                                  ;PRP;Facturado      
 2015;1;CC  ;1143349558;742;ANDRES FELIPE;ALCALA LORA;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1143349628;738;JAVIER ELIAS;JAVIER ELIAS;ODONTOLOGIA                                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1143350139;770;HEIDY CAROLINA;MONTES GARCÉS;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1143350729;54701;MARIA DOMINGA;FUENTES MARTINEZ;ADMINISTRACION DE EMPRESAS DISTANCIA - LORICA                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143350985;3325;CARLOS AUGUSTO;PADILLA VALENZUELA;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
-2015;1;CC  ;1143351013;;MARÍA NICOL;MUNERA CONTRERAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143351013;103783;MARÍA NICOL;MUNERA CONTRERAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1143351383;766;RAFAEL DE JESUS;RUA BOSSA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1143351928;54454;JULIO ANGEL;RAMOS RIVERA;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
 2015;1;CC  ;1143352027;770;ANGELA PATRICIA;RUIZ SERMEÑO;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Admitido ..    
@@ -2330,27 +2332,27 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1143352449;9367;LOREN JULIETH;BUSTOS BLANCO;ESPECIALIZACION EN ENDODONCIA                                                                       ;   ;Admitido ..    
 2015;1;CC  ;1143352589;766;EDUARDO LUIS;ARRIETA LUNA;ESPECIALIZACION EN FINANZAS                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1143352639;54595;SHAROM;DE ORO ACOSTA;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Admitido ..    
-2015;1;CC  ;1143353046;;JAIVER;AHUMEDO RUIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143353046;103783;JAIVER;AHUMEDO RUIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1143353108;90636;CARLOS DANILO;JARAMILLO OCAMPO;TECNICA PROFESIONAL EN PROCESOS METROLOGICOS                                                        ;PRP;Admitido ..    
 2015;1;CC  ;1143353673;10461;ELYMER JOHANA;AYOLA MARRUGO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143353906;770;KATHERINE;CARRILLO GONZALEZ;ESPECIALIZACION EN GESTION GERENCIAL                                                                ;PRP;Facturado      
 2015;1;CC  ;1143353930;10892;KEYBER ANDRÉS;GONZALEZ SOSA;ESPECIALIZACION EN ESTRUCTURAS                                                                      ;   ;Facturado      
 2015;1;CC  ;1143354326;102460;LEIDY DIANA;OSPINO PEDROZO;MAESTRIA EN CONFLICTO SOCIAL Y CONSTRUCCION DE PAZ                                                  ;PRP;Facturado      
 2015;1;CC  ;1143354392;54701;MELISSA ANDREA;MANJARRES RUBIO;ADMINISTRACION DE EMPRESAS DISTANCIA - CARTAGENA                                                    ;PRP;Admitido ..    
-2015;1;CC  ;1143354497;;CHRISTIAN;ORTIZ ALVAREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143354497;103783;CHRISTIAN;ORTIZ ALVAREZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1143354676;747;CARLOS;AGAMEZ NAVARRO;INGENIERIA CIVIL                                                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1143354963;103272;DUVAN;GONZALEZ BELEÑO;MAESTRIA EN DERECHO                                                                                 ;PRP;Facturado      
 2015;1;CC  ;1143355322;54595;KEIMER ENRIQUE;MONTIEL BUELVAS;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Facturado      
-2015;1;CC  ;1143355395;;LAURA;AYCARDI MERCADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
-2015;1;CC  ;1143355562;;ADRIANA CAROLINA;MONTAÑO MARTINEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1143355395;103783;LAURA;AYCARDI MERCADO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143355562;103783;ADRIANA CAROLINA;MONTAÑO MARTINEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143355845;742;LUIS ALBERTO;FRANCO RODRIGUEZ;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1143356365;54595;LINA MARIA;GONZALEZ MENESSES;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1143356423;3325;ALEJANDRA ISABEL;MERCADO PACHECO;ESPECIALIZACION EN GERENCIA EN SALUD                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1143356574;54490;JOEL ENRIQUE;ALVAREZ GUTIERREZ;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - MAGANGUE                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143356946;54744;FRANK JOSE;FRANK JOSE;INGENIERIA DE SISTEMAS - CARTAGENA                                                                  ;PRP;Admitido ..    
 2015;1;CC  ;1143357815;2914;CARLOS JULIO;ECHENIQUE FRANCO;ADMINISTRACION INDUSTRIAL                                                                           ;PRP;Admitido ..    
-2015;1;CC  ;1143357970;;FREDDYS;YOUNG VENERA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
-2015;1;CC  ;1143358109;;GRETEL;GARCIA GONZALEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143357970;103783;FREDDYS;YOUNG VENERA;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1143358109;103783;GRETEL;GARCIA GONZALEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1143358786;10461;KAREN AGUILAR;AGUILAR VELASCO;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143358831;10461;LAURA MERCEDES;BALLESTEROS ESTRADA;ESPECIALIZACION EN GESTION DE LA CALIDAD Y AUDITORIA EN SALUD                                       ;PRP;Admitido ..    
 2015;1;CC  ;1143358854;54454;YORLEIDYS;BOLAÑO SANTANA;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
@@ -2369,11 +2371,11 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;CC  ;1143362542;102148;CINDY SUSANA;BATISTA LÓPEZ;PROFESIONAL UNIVERSITARIO EN LENGUAS EXTRANJERAS                                                    ;PRP;Admitido ..    
 2015;1;CC  ;1143363254;54490;KEVIN;VALDEZ MONTALVO;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;1143363264;54454;LAURA PATRICIA;ANGULO MENDOZA;TECNICO PROFESIONAL EN OPERACION TURISTICA - CARTAGENA                                              ;PRP;Admitido ..    
-2015;1;CC  ;1143363839;;LAURA CRISTINA;ROJAS PUELLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143363839;103783;LAURA CRISTINA;ROJAS PUELLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1143365510;742;HELLEN;BERTEL MADRID;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
 2015;1;CC  ;1143365661;54490;DIEGO ARMANDO;SIERRA PINEDA;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARTAGENA                                      ;PRP;Admitido ..    
 2015;1;CC  ;1143366237;742;MASSIEL PAOLA;SALAS FORTICH;ADMINISTRACION DE EMPRESAS NOCTURNA                                                                 ;PRP;Admitido ..    
-2015;1;CC  ;1143366743;;KAREN LUCIA;RODRIGUEZ RODRIGUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;CC  ;1143366743;103783;KAREN LUCIA;RODRIGUEZ RODRIGUEZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;CC  ;1143366859;54595;ANDREA CAROLINA;FLOREZ VERGARA;ADMINISTRACION FINANCIERA - CARTAGENA                                                               ;PRP;Admitido ..    
 2015;1;CC  ;1143367044;19723;LEWIS;CARABALLO RUIZ;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP;Admitido ..    
 2015;1;CC  ;1143367583;19723;MADELEIN;GUERRERO OLIVARES;CONTADURIA PUBLICA NOCTURNA                                                                         ;PRP;Admitido ..    
@@ -2524,7 +2526,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;TI  ;1193575222;740;MARIA FERNANDA;TORRES NAVARRO;DERECHO                                                                                             ;PRP;Admitido ..    
 2015;1;CC  ;1196968126;748;DIBEY;SUAREZ SIERRA;QUIMICA FARMACEUTICA                                                                                ;PRP;Admitido ..    
 2015;1;CC  ;1221963306;738;RAFAEL ENRIQUE DE JESÚS;FERNÁNDEZ GLEN;ODONTOLOGIA                                                                                         ;PRP;Admitido ..    
-2015;1;CC  ;1320350000;;HEIDY;VELEZ ORTIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
+2015;1;CC  ;1320350000;103783;HEIDY;VELEZ ORTIZ;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Admitido ..    
 2015;1;CC  ;1518298310;54595;LUIS MIGUEL;CASTELLAR VELASQUEZ;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Facturado      
 2015;1;CC  ;9408162263;54490;DEIVIS;DEIVIS;TECNICA PROFESIONAL EN PROCESOS DE GESTION PUBLICA - CARMEN DE BOLIVAR                              ;PRP;Facturado      
 2015;1;TI  ;9701312346;4208;LEONARDO ANDRES;COGOLLO ANGULO;INGENIERIA DE ALIMENTOS                                                                             ;PRP;Admitido ..    
@@ -2851,7 +2853,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;TI  ;97071424271;736;LIZETH;DE HORTA SANCHEZ;ENFERMERIA                                                                                          ;PRP;Admitido ..    
 2015;1;TI  ;97071516710;54595;DAYANA PAOLA;MARTINEZ GOMEZ;ADMINISTRACION FINANCIERA - SAN JUAN NEPOMUCENO                                                     ;PRP;Facturado      
 2015;1;TI  ;97071524691;746;LUISA FERNANDA;VILLALOBOS GAVIRIA;LINGUISTICA Y LITERATURA                                                                            ;PRP;Admitido ..    
-2015;1;TI  ;97071622251;;TANIA PATRICIA;GOMEZ ARENAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;TI  ;97071622251;103783;TANIA PATRICIA;GOMEZ ARENAS;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;TI  ;97071624246;54701;ELIECITH RAFAEL;VELASQUEZ PUELLO;ADMINISTRACION DE EMPRESAS DISTANCIA - MAGANGUE                                                     ;PRP;Facturado      
 2015;1;TI  ;97071803191;2995;MALORY FERNANDA;GUARDO PÁJARO;MATEMATICAS                                                                                         ;PRP;Admitido ..    
 2015;1;TI  ;97071811682;2914;PABLO ANDRES;MARTINEZ SILVERA;ADMINISTRACION INDUSTRIAL                                                                           ;PRP;Admitido ..    
@@ -3261,7 +3263,7 @@ agnprs;prdprs;ideprs;nriprs;snepgm;nomprs;apeprs;nompgm;codcnv;stddbi
 2015;1;TI  ;98030466373;4208;TREICY LORENA;CUADRO ATENCIO;INGENIERIA DE ALIMENTOS                                                                             ;PRP;Admitido ..    
 2015;1;TI  ;98030571240;51611;FABIAN ANDRES;FERNANDEZ MORALES;INGENIERIA QUIMICA                                                                                  ;PRP;Admitido ..    
 2015;1;TI  ;98030668278;740;MARIA JOSE;AGUILAR PEÑA;DERECHO                                                                                             ;PRP;Admitido ..    
-2015;1;TI  ;98030672313;;VIVIANA ALEJANDRA;ESPITIA BELLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
+2015;1;TI  ;98030672313;103783;VIVIANA ALEJANDRA;ESPITIA BELLO;ESPECIALIZACION EN GESTION DEL RIESGO LABORAL                                                       ;PRP;Facturado      
 2015;1;TI  ;98030673581;51611;JOSÉ RODRIGO;MARTINEZ SARAVIA;INGENIERIA QUIMICA                                                                                  ;PRP;Admitido ..    
 2015;1;TI  ;98030858433;746;NEYLA ESTHER;ZETIEN ARTEAGA;LINGUISTICA Y LITERATURA                                                                            ;PRP;Admitido ..    
 2015;1;TI  ;98030860250;746;SADY PAOLA;CARREAZO GUZMAN;LINGUISTICA Y LITERATURA                                                                            ;PRP;Admitido ..    
